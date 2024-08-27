@@ -1,0 +1,175 @@
+<zones>
+  <zone>
+    <zoneName>Things Betwixt</zoneName>
+    <bonfires><name>Fire Keepers' Dwelling</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Majula</zoneName>
+    <bonfires><name>The Far Fire</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Forest of Fallen Giants</zoneName>
+    <bonfires>
+      <name>The Crestfallen's Retreat</name>
+      <name>Cardinal Tower</name>
+      <name>Soldier's Rest</name>
+      <name>The Place Unbeknownst</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Heide's Tower of Flame</zoneName>
+    <bonfires>
+      <name>Heide's Ruin</name>
+      <name>Tower of Flame</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Cathedral of Blue</zoneName>
+    <bonfires><name>The Blue Cathedral</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>No Man's Wharf</zoneName>
+    <bonfires><name>Unseen Path to Heide</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>The Lost Bastille</zoneName>
+    <bonfires>
+      <name>Exile Holding Cells</name>
+      <name>McDuff's Workshop</name>
+      <name>Servants' Quarters</name>
+      <name>Straid's Cell</name>
+      <name>The Tower Apart</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Sinner's Rise</zoneName>
+    <bonfires><name>The Saltfort</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Belfry Luna</zoneName>
+    <bonfires><name>Upper Ramparts</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Huntsman's Copse</zoneName>
+    <bonfires>
+      <name>Undead Refuge</name>
+      <name>Bridge Approach</name>
+      <name>Undead Lockaway</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Undead Purgatory</zoneName>
+    <bonfires><name>Undead Purgatory</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Harvest Valley</zoneName>
+    <bonfires>
+      <name>Poison Pool</name>
+      <name>The Mines</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Earthen Peak</zoneName>
+    <bonfires>
+      <name>Lower Earthen Peak</name>
+      <name>Central Earthen Peak</name>
+      <name>Upper Earthen Peak</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Iron Keep</zoneName>
+    <bonfires>
+      <name>Threshold Bridge</name>
+      <name>Ironheart Hall</name>
+      <name>Eygil's Idol</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Belfry Sol</zoneName>
+    <bonfires><name>Belfry Sol Approach</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Shaded Woods</zoneName>
+    <bonfires>
+      <name>Old Akelarre</name>
+      <name>Ruined Fork Road</name>
+      <name>Shaded Ruins</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Doors of Pharros</zoneName>
+    <bonfires>
+      <name>Gyrm's Respite</name>
+      <name>Ordeal's End</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Brightstone Cove Tseldora</zoneName>
+    <bonfires>
+      <name>Royal Army Campsite</name>
+      <name>Chapel Threshold</name>
+      <name>Lower Brightstone Cove</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Grave of Saints</zoneName>
+    <bonfires>
+      <name>Harval's Resting Place</name>
+      <name>Grave Entrance</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>The Gutter</zoneName>
+    <bonfires>
+      <name>Upper Gutter</name>
+      <name>Central Gutter</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Black Gulch</zoneName>
+    <bonfires>
+      <name>Black Gulch Mouth</name>
+      <name>Hidden Chamber</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Drangleic Castle</zoneName>
+    <bonfires>
+      <name>King's Gate</name>
+      <name>Forgotten Chamber</name>
+      <name>Under Castle Drangleic</name>
+      <name>Central Castle Drangleic</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Shrine of Amana</zoneName>
+    <bonfires>
+      <name>Tower of Prayer</name>
+      <name>Crumbled Ruins</name>
+      <name>Rhoy's Resting Place</name>
+      <name>Rise of the Dead</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Undead Crypt</zoneName>
+    <bonfires>
+      <name>Undead Crypt Entrance</name>
+      <name>Undead Ditch</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Aldia's Keep</zoneName>
+    <bonfires>
+      <name>Foregarden</name>
+      <name>Ritual Site</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Dragon Aerie</zoneName>
+    <bonfires><name>Dragon Aerie</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Dragon Shrine</zoneName>
+    <bonfires><name>Shrine Entrance</name></bonfires>
+  </zone>
+</zones>

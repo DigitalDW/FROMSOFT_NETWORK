@@ -1,0 +1,116 @@
+[
+  { "zone": "Cemetery of Ash", "name": "Firelink Shrine", "id": 1 },
+  { "zone": "Cemetery of Ash", "name": "Cemetery of Ash", "id": 2 },
+  { "zone": "Cemetery of Ash", "name": "Iudex Gundyr", "id": 3 },
+  { "zone": "Untended Graves", "name": "Untended Graves", "id": 4 },
+  { "zone": "Untended Graves", "name": "Champion Gundyr", "id": 5 },
+  { "zone": "High Wall of Lothric", "name": "High Wall of Lothric", "id": 6 },
+  { "zone": "High Wall of Lothric", "name": "Tower on the Wall", "id": 7 },
+  {
+    "zone": "High Wall of Lothric",
+    "name": "Vordt of the Boreal Valley",
+    "id": 8
+  },
+  {
+    "zone": "High Wall of Lothric",
+    "name": "Dancer of the Boreal Valley",
+    "id": 9
+  },
+  {
+    "zone": "High Wall of Lothric",
+    "name": "Oceiros, the Consumed King",
+    "id": 10
+  },
+  { "zone": "Undead Settlement", "name": "Foot of the High Wall", "id": 11 },
+  { "zone": "Undead Settlement", "name": "Undead Settlement", "id": 12 },
+  { "zone": "Undead Settlement", "name": "Cliff Underside", "id": 13 },
+  { "zone": "Undead Settlement", "name": "Dilapidated Bridge", "id": 14 },
+  { "zone": "Undead Settlement", "name": "Pit of Hollows", "id": 15 },
+  { "zone": "Road of Sacrifices", "name": "Road of Sacrifices", "id": 16 },
+  { "zone": "Road of Sacrifices", "name": "Halfway Fortress", "id": 17 },
+  { "zone": "Road of Sacrifices", "name": "Crucifixion Woods", "id": 18 },
+  { "zone": "Road of Sacrifices", "name": "Crystal Sage", "id": 19 },
+  { "zone": "Road of Sacrifices", "name": "Farron Keep", "id": 20 },
+  { "zone": "Road of Sacrifices", "name": "Keep Ruins", "id": 21 },
+  { "zone": "Road of Sacrifices", "name": "Farron Keep Perimeter", "id": 22 },
+  { "zone": "Road of Sacrifices", "name": "Old Wolf of Farron", "id": 23 },
+  { "zone": "Road of Sacrifices", "name": "Abyss Watchers", "id": 24 },
+  {
+    "zone": "Cathedral of the Deep",
+    "name": "Cathedral of the Deep",
+    "id": 25
+  },
+  { "zone": "Cathedral of the Deep", "name": "Cleansing Chapel", "id": 26 },
+  {
+    "zone": "Cathedral of the Deep",
+    "name": "Rosaria's Bed Chamber",
+    "id": 27
+  },
+  { "zone": "Cathedral of the Deep", "name": "Deacons of the Deep", "id": 28 },
+  { "zone": "Catacombs of Carthus", "name": "Catacombs of Carthus", "id": 29 },
+  { "zone": "Catacombs of Carthus", "name": "High Lord Wolnir", "id": 30 },
+  { "zone": "Catacombs of Carthus", "name": "Abandoned Tomb", "id": 31 },
+  {
+    "zone": "Catacombs of Carthus",
+    "name": "Old King's Antechamber",
+    "id": 32
+  },
+  { "zone": "Catacombs of Carthus", "name": "Demon Ruins", "id": 33 },
+  { "zone": "Catacombs of Carthus", "name": "Old Demon King", "id": 34 },
+  {
+    "zone": "Irithyll of the Boreal Valley",
+    "name": "Irithyll of the Boreal Valley",
+    "id": 35
+  },
+  {
+    "zone": "Irithyll of the Boreal Valley",
+    "name": "Central Irithyll",
+    "id": 36
+  },
+  {
+    "zone": "Irithyll of the Boreal Valley",
+    "name": "Church of Yorshka",
+    "id": 37
+  },
+  {
+    "zone": "Irithyll of the Boreal Valley",
+    "name": "Distant Manor",
+    "id": 38
+  },
+  {
+    "zone": "Irithyll of the Boreal Valley",
+    "name": "Pontiff Sulyvahn",
+    "id": 39
+  },
+  {
+    "zone": "Irithyll of the Boreal Valley",
+    "name": "Water Reserve",
+    "id": 40
+  },
+  { "zone": "Irithyll of the Boreal Valley", "name": "Anor Londo", "id": 41 },
+  { "zone": "Irithyll of the Boreal Valley", "name": "Prison Tower", "id": 42 },
+  {
+    "zone": "Irithyll of the Boreal Valley",
+    "name": "Aldrich, Devourer of Gods",
+    "id": 43
+  },
+  { "zone": "Irithyll Dungeon", "name": "Irithyll Dungeon", "id": 44 },
+  { "zone": "Irithyll Dungeon", "name": "Profaned Capital", "id": 45 },
+  { "zone": "Irithyll Dungeon", "name": "Yhorm the Giant", "id": 46 },
+  { "zone": "Lothric Castle", "name": "Lothric Castle", "id": 47 },
+  { "zone": "Lothric Castle", "name": "Dragon Barracks", "id": 48 },
+  { "zone": "Lothric Castle", "name": "Dragonslayer Armour", "id": 49 },
+  { "zone": "Lothric Castle", "name": "Grand Archives", "id": 50 },
+  { "zone": "Lothric Castle", "name": "Twin Princes", "id": 51 },
+  { "zone": "Archdragon Peak", "name": "Archdragon Peak", "id": 52 },
+  { "zone": "Archdragon Peak", "name": "Dragon-Kin Mausoleum", "id": 53 },
+  { "zone": "Archdragon Peak", "name": "Great Belfry", "id": 54 },
+  { "zone": "Archdragon Peak", "name": "Nameless King", "id": 55 },
+  { "zone": "Kiln of the First Flame", "name": "Flameless Shrine", "id": 56 },
+  {
+    "zone": "Kiln of the First Flame",
+    "name": "Kiln of the First Flame",
+    "id": 57
+  },
+  { "zone": "Kiln of the First Flame", "name": "Soul of Cinder", "id": 58 }
+]

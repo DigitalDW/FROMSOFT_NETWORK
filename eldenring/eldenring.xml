@@ -1,0 +1,541 @@
+<list>
+   <region>
+      <regionName>Roundtable Hold</regionName>
+      <zone>
+         <zoneName>Roundtable Hold</zoneName>
+         <sites>
+            <site>Table of Lost Grace</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Limgrave</regionName>
+      <zone>
+         <zoneName>Main Limgrave</zoneName>
+         <sites>
+            <site>The First Step</site>
+            <site>Church of Elleh</site>
+            <site>Gatefront</site>
+            <site>Waypoint Ruins Cellar</site>
+            <site>Artist's Shack</site>
+            <site>Third Church of Marika</site>
+            <site>Fort Haight West</site>
+            <site>Agheel Lake South</site>
+            <site>Agheel Lake North</site>
+            <site>Church of Dragon Communion</site>
+            <site>Seaside Ruins</site>
+            <site>Mistwood Outskirts</site>
+            <site>Murkwater Coast</site>
+            <site>Summonwater Village Outskirts</site>
+            <site>Stormfoot Catacombs</site>
+            <site>Murkwater Catacombs</site>
+            <site>Groveside Cave</site>
+            <site>Coastal Cave</site>
+            <site>Murkwater Cave</site>
+            <site>Highroad Cave</site>
+            <site>Limgrave Tunnels</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Stranded Graveyard</zoneName>
+         <sites>
+            <site>Cave of Knowledge</site>
+            <site>Stranded Graveyard</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Stormhill</zoneName>
+         <sites>
+            <site>Stormhill Shack</site>
+            <site>Castleward Tunnel</site>
+            <site>Margit, the Fell Omen</site>
+            <site>Warmaster's Shack</site>
+            <site>Saintsbridge</site>
+            <site>Deathtouched Catacombs</site>
+            <site>Limgrave Tower Bridge</site>
+            <site>Divine Tower of Limgrave</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Weeping Peninsula</zoneName>
+         <sites>
+            <site>Church of Pilgrimage</site>
+            <site>Castle Morne Rampart</site>
+            <site>Tombsward</site>
+            <site>South of the Lookout Tower</site>
+            <site>Ailing Village Outskirts</site>
+            <site>Beside The Crater-Pocked Glade</site>
+            <site>Isolated Merchant's Shack</site>
+            <site>Fourth Church of Marika</site>
+            <site>Bridge of Sacrifice</site>
+            <site>Castle Morne Lift</site>
+            <site>Behind The Castle</site>
+            <site>Beside the Rampart Gaol</site>
+            <site>Morne Moangrave</site>
+            <site>Impaler's Catacombs</site>
+            <site>Tombsward Catacombs</site>
+            <site>Earthbore Cave</site>
+            <site>Tombsward Cave</site>
+            <site>Morne Tunnel</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Stormveil Castle</regionName>
+      <zone>
+         <zoneName>Stormveil Castle</zoneName>
+         <sites>
+            <site>Stormveil Main Gate</site>
+            <site>Gateside Chamber</site>
+            <site>Stormveil Cliffside</site>
+            <site>Rampart Tower</site>
+            <site>Liftside Chamber</site>
+            <site>Secluded Cell</site>
+            <site>Godrick the Grafted</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Liurnia of the Lakes</regionName>
+      <zone>
+         <zoneName>Main Liurnia of the Lakes</zoneName>
+         <sites>
+            <site>Lake-Facing Cliffs</site>
+            <site>Liurnia Lake Shore</site>
+            <site>Laskyar Ruins</site>
+            <site>Scenic Isle</site>
+            <site>Academy Gate Town</site>
+            <site>South Raya Lucaria Gate</site>
+            <site>Main Academy Gate</site>
+            <site>Liurnia Highway South</site>
+            <site>Liurnia Highway North</site>
+            <site>Gate Town Bridge</site>
+            <site>Artist's Shack</site>
+            <site>Eastern Liurnia Lake Shore</site>
+            <site>Jarburg</site>
+            <site>Ranni's Chamber</site>
+            <site>Eastern Tableland</site>
+            <site>Church of Vows</site>
+            <site>Ruined Labyrinth</site>
+            <site>Mausoleum Compound</site>
+            <site>Slumbering Wolf's Shack</site>
+            <site>Boilprawn Shack</site>
+            <site>Fallen Ruins of the Lake</site>
+            <site>Folly on the Lake</site>
+            <site>Village of the Albinaurics</site>
+            <site>Converted Tower</site>
+            <site>Revenger's Shack</site>
+            <site>Temple Quarter</site>
+            <site>Crystalline Woods</site>
+            <site>Foot of the Four Belfries</site>
+            <site>The Four Belfries</site>
+            <site>Sorcerer's Isle</site>
+            <site>East Gate Bridge Trestle</site>
+            <site>Gate Town North</site>
+            <site>Northern Liurnia Lake Shore</site>
+            <site>Road to the Manor</site>
+            <site>Main Caria Manor Gate</site>
+            <site>Manor Upper Level</site>
+            <site>Manor Lower Level</site>
+            <site>Royal Moongazing Grounds</site>
+            <site>Ranni's Rise</site>
+            <site>Behind Caria Manor</site>
+            <site>The Ravine</site>
+            <site>Ravine-Veiled Village</site>
+            <site>Cliffbottom Catacombs</site>
+            <site>Road's End Catacombs</site>
+            <site>Black Knife Catacombs</site>
+            <site>Stillwater Cave</site>
+            <site>Lakeside Crystal Cave</site>
+            <site>Academy Crystal Cave</site>
+            <site>Raya Lucaria Crystal Tunnel</site>
+            <site>Study Hall Entrance</site>
+            <site>Liurnia Tower Bridge</site>
+            <site>Divine Tower of Liurnia</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Bellum Highway</zoneName>
+         <sites>
+            <site>East Raya Lucaria Gate</site>
+            <site>Bellum Church</site>
+            <site>Grand Lift of Dectus</site>
+            <site>Frenzied Flame Village Outskirts</site>
+            <site>Church of Inhibition</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Ruin-Strewn Precipice</zoneName>
+         <sites>
+            <site>Ruin-Strewn Precipice</site>
+            <site>Ruin-Strewn Precipice Overlook</site>
+            <site>Magma Wyrm Makar</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Moonlight Altar</zoneName>
+         <sites>
+            <site>Moonlight Altar</site>
+            <site>Cathedral of Manus Celes</site>
+            <site>Altar South</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Academy of Raya Lucaria</regionName>
+      <zone>
+         <zoneName>Academy of Raya Lucaria</zoneName>
+         <sites>
+            <site>Church of the Cuckoo</site>
+            <site>Schoolhouse Classroom</site>
+            <site>Debate Parlor</site>
+            <site>Raya Lucaria Grand Library</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Altus Plateau</regionName>
+      <zone>
+         <zoneName>Main Altus Plateau</zoneName>
+         <sites>
+            <site>Abandoned Coffin</site>
+            <site>Erdtree-Gazing Hill</site>
+            <site>Altus Plateau</site>
+            <site>Altus Highway Junction</site>
+            <site>Forest-Spanning Greatbridge</site>
+            <site>Bower of Bounty</site>
+            <site>Windmill Village</site>
+            <site>Windmill Heights</site>
+            <site>Road of Iniquity Side Path</site>
+            <site>Rampartside Path</site>
+            <site>Shaded Castle Ramparts</site>
+            <site>Shaded Castle Inner Gate</site>
+            <site>Castellan's Hall</site>
+            <site>Unsightly Catacombs</site>
+            <site>Sainted Hero's Grave</site>
+            <site>Sage's Cave</site>
+            <site>Perfumer's Grotto</site>
+            <site>Old Altus Tunnel</site>
+            <site>Altus Tunnel</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Mt. Gelmir</zoneName>
+         <sites>
+            <site>Bridge of Iniquity</site>
+            <site>First Mt. Gelmir Campsite</site>
+            <site>Ninth Mt. Gelmir Campsite</site>
+            <site>Road of Iniquity</site>
+            <site>Seethewater River</site>
+            <site>Seethewater Terminus</site>
+            <site>Craftsman's Shack</site>
+            <site>Primeval Sorcerer Azur</site>
+            <site>Wyndham Catacombs</site>
+            <site>Gelmir Hero's Grave</site>
+            <site>Seethewater Cave</site>
+            <site>Volcano Cave</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Capital Outskirts</zoneName>
+         <sites>
+            <site>Outer Wall Phantom Tree</site>
+            <site>Minor Erdtree Church</site>
+            <site>Outer Wall Battleground</site>
+            <site>Hermit Merchant's Shack</site>
+            <site>Capital Rampart</site>
+            <site>Auriza Side Tomb</site>
+            <site>Auriza Hero's Grave</site>
+            <site>Sealed Tunnel</site>
+            <site>Divine Tower of West Altus: Gate</site>
+            <site>Divine Tower of West Altus</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Volcano Manor</regionName>
+      <zone>
+      <zoneName>Volcano Manor</zoneName>
+         <sites>
+            <site>Volcano Manor</site>
+            <site>Prison Town Church</site>
+            <site>Temple of Eiglay</site>
+            <site>Guest Hall</site>
+            <site>Audience Pathway</site>
+            <site>Abductor Virgin</site>
+            <site>Subterranean Inquisition Chamber</site>
+            <site>Rykard, Lord of Blasphemy</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Leyndell, Royal Capital</regionName>
+      <zone>
+         <zoneName>Main Leyndell, Royal Capital</zoneName>
+         <sites>
+            <site>Erdtree Sanctuary</site>
+            <site>East Capital Rampart</site>
+            <site>Lower Capital Church</site>
+            <site>Avenue Balcony</site>
+            <site>West Capital Rampart</site>
+            <site>Queen's Bedchamber</site>
+            <site>Fortified Manor, First Floor</site>
+            <site>Divine Bridge</site>
+            <site>Elden Throne</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Subterranean Shunning-Grounds</zoneName>
+         <sites>
+            <site>Underground Roadside</site>
+            <site>Forsaken Depths</site>
+            <site>Leyndell Catacombs</site>
+            <site>Frenzied Flame Proscription</site>
+            <site>Cathedral of the Forsaken</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Leyndell, Ashen Capital</zoneName>
+         <sites>
+            <site>East Capital Rampart</site>
+            <site>Leyndell, Capital of Ash</site>
+            <site>Erdtree Sanctuary</site>
+            <site>Queen's Bedchamber</site>
+            <site>Divine Bridge</site>
+            <site>Elden Throne</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Stone Platform</zoneName>
+         <sites>
+            <site>Fractured Marika</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Caelid</regionName>
+      <zone>
+         <zoneName>Main Caelid</zoneName>
+         <sites>
+            <site>Smoldering Church</site>
+            <site>Rotview Balcony</site>
+            <site>Caelem Ruins</site>
+            <site>Fort Gael North</site>
+            <site>Smoldering Wall</site>
+            <site>Caelid Highway South</site>
+            <site>Cathedral of Dragon Communion</site>
+            <site>Southern Aeonia Swamp Bank</site>
+            <site>Sellia Backstreets</site>
+            <site>Sellia Under-Stair</site>
+            <site>Chair-Crypt of Sellia</site>
+            <site>Church of the Plague</site>
+            <site>Deep Siofra Well</site>
+            <site>Impassable Greatbridge</site>
+            <site>Chamber Outside the Plaza</site>
+            <site>Redmane Castle Plaza</site>
+            <site>Starscourge Radahn</site>
+            <site>Minor Erdtree Catacombs</site>
+            <site>Caelid Catacombs</site>
+            <site>War-Dead Catacombs</site>
+            <site>Abandoned Cave</site>
+            <site>Gaol Cave</site>
+            <site>Gael Tunnel</site>
+            <site>Rear Gael Tunnel Entrance</site>
+            <site>Sellia Crystal Tunnel</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Swamp of Aeonia</zoneName>
+         <sites>
+            <site>Aeonia Swamp Shore</site>
+            <site>Astray from Caelid Highway North</site>
+            <site>Heart of Aeonia</site>
+            <site>Inner Aeonia</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Greyoll's Dragonbarrow</zoneName>
+         <sites>
+            <site>Dragonbarrow West</site>
+            <site>Isolated Merchant's Shack</site>
+            <site>Fort Faroth</site>
+            <site>Dragonbarrow Fork</site>
+            <site>Lenne's Rise</site>
+            <site>Farum Greatbridge</site>
+            <site>Bestial Sanctum</site>
+            <site>Sellia Hideaway</site>
+            <site>Dragonbarrow Cave</site>
+            <site>Divine Tower of Caelid: Center</site>
+            <site>Divine Tower of Caelid: Basement</site>
+            <site>Isolated Divine Tower</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Mountaintops of the Giants</regionName>
+      <zone>
+         <zoneName>Forbidden Lands</zoneName>
+         <sites>
+            <site>Forbidden Lands</site>
+            <site>Grand Lift of Rold</site>
+            <site>Hidden Path to the Haligtree</site>
+            <site>Divine Tower of East Altus: Gate</site>
+            <site>Divine Tower of East Altus</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Main Mountaintops of the Giants</zoneName>
+         <sites>
+            <site>Zamor Ruins</site>
+            <site>Ancient Snow Valley Ruins</site>
+            <site>Freezing Lake</site>
+            <site>First Church of Marika</site>
+            <site>Whiteridge Road</site>
+            <site>Snow Valley Ruins Overlook</site>
+            <site>Castle Sol Main Gate</site>
+            <site>Church of the Eclipse</site>
+            <site>Castle Sol Rooftop</site>
+            <site>Spiritcaller Cave</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Flame Peak</zoneName>
+         <sites>
+            <site>Giants' Gravepost</site>
+            <site>Church of Repose</site>
+            <site>Foot of the Forge</site>
+            <site>Fire Giant</site>
+            <site>Forge of the Giants</site>
+            <site>Giants' Mountaintop Catacombs</site>
+            <site>Giant-Conquering Hero's Grave</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Consecrated Snowfield</zoneName>
+         <sites>
+            <site>Consecrated Snowfield</site>
+            <site>Inner Consecrated Snowfield</site>
+            <site>Ordina, Liturgical Town</site>
+            <site>Apostate Derelict</site>
+            <site>Consecrated Snowfield Catacombs</site>
+            <site>Cave of the Forlorn</site>
+            <site>Yelough Anix Tunnel</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Miquella's Haligtree</regionName>
+      <zone>
+         <zoneName>Main Miquella's Haligtree</zoneName>
+         <sites>
+            <site>Haligtree Canopy</site>
+            <site>Haligtree Town</site>
+            <site>Haligtree Town Plaza</site>
+            <site>Haligtree Promenade</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Elphael, Brace of the Haligtree</zoneName>
+         <sites>
+            <site>Prayer Room</site>
+            <site>Elphael Inner Wall</site>
+            <site>Drainage Channel</site>
+            <site>Haligtree Roots</site>
+            <site>Malenia, Goddess of Rot</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Ainsel River</regionName>
+      <zone>
+         <zoneName>Main Ainsel River</zoneName>
+         <sites>
+            <site>Ainsel River Well Depths</site>
+            <site>Ainsel River Sluice Gate</site>
+            <site>Ainsel River Downstream</site>
+            <site>Dragonkin Soldier of Nokstella</site>
+            <site>Astel, Naturalborn of the Void</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Ainsel River Main</zoneName>
+         <sites>
+            <site>Ainsel River Main</site>
+            <site>Nokstella, Eternal City</site>
+            <site>Nokstella Waterfall Basin</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Lake of Rot</zoneName>
+         <sites>
+            <site>Lake of Rot Shoreside</site>
+            <site>Grand Cloister</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Siofra River</regionName>
+      <zone>
+         <zoneName>Nokron, Eternal City</zoneName>
+         <sites>
+            <site>Nokron, Eternal City</site>
+            <site>Mimic Tear</site>
+            <site>Ancestral Woods</site>
+            <site>Night's Sacred Ground</site>
+            <site>Aqueduct-Facing Cliffs</site>
+            <site>Great Waterfall Basin</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Main Siofra River</zoneName>
+         <sites>
+            <site>Siofra River Well Depths</site>
+            <site>Siofra River Bank</site>
+            <site>Worshippers' Woods</site>
+            <site>Below the Well</site>
+         </sites>
+      </zone>
+      <zone>
+         <zoneName>Mohgwyn Palace</zoneName>
+         <sites>
+            <site>Palace Approach Ledge-Road</site>
+            <site>Dynasty Mausoleum Entrance</site>
+            <site>Dynasty Mausoleum Midpoint</site>
+            <site>Cocoon of the Empyrean</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Deeproot Depths</regionName>
+      <zone>
+         <zoneName>Deeproot Depths</zoneName>
+         <sites>
+            <site>Root-Facing Cliffs</site>
+            <site>Great Waterfall Crest</site>
+            <site>Deeproot Depths</site>
+            <site>The Nameless Eternal City</site>
+            <site>Across the Roots</site>
+            <site>Prince of Death's Throne</site>
+         </sites>
+      </zone>
+   </region>
+   <region>
+      <regionName>Crumbling Farum Azula</regionName>
+      <zone>
+         <zoneName>Crumbling Farum Azula</zoneName>
+         <sites>
+            <site>Crumbling Beast Grave</site>
+            <site>Crumbling Beast Grave Depths</site>
+            <site>Tempest-Facing Balcony</site>
+            <site>Dragon Temple</site>
+            <site>Dragon Temple Transept</site>
+            <site>Dragon Temple Altar</site>
+            <site>Dragon Temple Lift</site>
+            <site>Dragon Temple Rooftop</site>
+            <site>Beside the Great Bridge</site>
+            <site>Dragonlord Placidusax</site>
+            <site>Maliketh, the Black Blade</site>
+         </sites>
+      </zone>
+   </region>
+</list>

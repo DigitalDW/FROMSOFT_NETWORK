@@ -1,0 +1,97 @@
+[
+	{ "zone": "Undead Asylum", "name": "Undead Asylum 1", "id": 1 },
+	{ "zone": "Undead Asylum", "name": "Undead Asylum 2", "id": 2 },
+	{ "zone": "Firelink Shrine", "name": "Firelink Shrine", "id": 3 },
+	{ "zone": "Firelink Altar", "name": "Lordvessel", "id": 4 },
+	{ "zone": "Undead Burg", "name": "Undead Burg", "id": 5 },
+	{ "zone": "Undead Burg", "name": "Sunlight Altar", "id": 6 },
+	{ "zone": "Undead Parish", "name": "Undead Parish", "id": 7 },
+	{ "zone": "Darkroot Garden", "name": "Darkroot Garden", "id": 8 },
+	{ "zone": "Darkroot Basin", "name": "Darkroot Basin", "id": 9 },
+	{ "zone": "Depths", "name": "Depths", "id": 10 },
+	{ "zone": "Blighttown", "name": "Blighttown Catwalk", "id": 11 },
+	{ "zone": "Blighttown", "name": "Blighttown Swamp", "id": 12 },
+	{
+		"zone": "Quelaag's Domain",
+		"name": "Daughter of Chaos",
+		"id": 13
+	},
+	{
+		"zone": "The Great Hollow",
+		"name": "The Great Hollow",
+		"id": 14
+	},
+	{ "zone": "Ash Lake", "name": "Ash Lake", "id": 15 },
+	{ "zone": "Ash Lake", "name": "Stone Dragon", "id": 16 },
+	{ "zone": "Demon Ruins", "name": "Demon Ruins Entrance", "id": 17 },
+	{
+		"zone": "Demon Ruins",
+		"name": "Demon Ruins Staircase",
+		"id": 18
+	},
+	{
+		"zone": "Demon Ruins",
+		"name": "Demon Ruins Catacombs",
+		"id": 19
+	},
+	{
+		"zone": "Lost Izalith",
+		"name": "Lost Izalith Lava Pits",
+		"id": 20
+	},
+	{ "zone": "Lost Izalith", "name": "Lost Izalith 2", "id": 21 },
+	{ "zone": "Lost Izalith", "name": "Heart of Chaos", "id": 22 },
+	{ "zone": "Sen's Fortress", "name": "Sen's Fortress", "id": 23 },
+	{ "zone": "Anor Londo", "name": "Anor Londo", "id": 24 },
+	{ "zone": "Anor Londo", "name": "Darkmoon Tomb", "id": 25 },
+	{ "zone": "Anor Londo", "name": "Anor Londo Residence", "id": 26 },
+	{
+		"zone": "Anor Londo",
+		"name": "Chamber of the Princess",
+		"id": 27
+	},
+	{
+		"zone": "Painted World of Ariamis",
+		"name": "Painted World of Ariamis",
+		"id": 28
+	},
+	{
+		"zone": "The Duke's Archives",
+		"name": "Duke's Archives 1",
+		"id": 29
+	},
+	{
+		"zone": "The Duke's Archives",
+		"name": "Duke's Archives 2",
+		"id": 30
+	},
+	{
+		"zone": "The Duke's Archives",
+		"name": "Duke's Archives 3",
+		"id": 31
+	},
+	{ "zone": "Crystal Cave", "name": "Crystal Cave", "id": 32 },
+	{ "zone": "Catacombs", "name": "Catacombs 1", "id": 33 },
+	{ "zone": "Catacombs", "name": "Catacombs 2", "id": 34 },
+	{
+		"zone": "Tomb of the Giants",
+		"name": "Tomb of Giants 1",
+		"id": 35
+	},
+	{
+		"zone": "Tomb of the Giants",
+		"name": "Tomb of Giants 2",
+		"id": 36
+	},
+	{
+		"zone": "Tomb of the Giants",
+		"name": "Altar of the Gravelord",
+		"id": 37
+	},
+	{ "zone": "The Abyss", "name": "The Abyss", "id": 38 },
+	{
+		"zone": "Kiln of the First Flame",
+		"name": "Kiln of the First Flame",
+		"id": 39
+	}
+]

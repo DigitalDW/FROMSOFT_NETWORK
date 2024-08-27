@@ -1,0 +1,139 @@
+[
+  {
+    "zoneName": "Things Betwixt",
+    "bonfires": ["Fire Keepers' Dwelling"]
+  },
+  {
+    "zoneName": "Majula",
+    "bonfires": ["The Far Fire"]
+  },
+  {
+    "zoneName": "Forest of Fallen Giants",
+    "bonfires": [
+      "The Crestfallen's Retreat",
+      "Cardinal Tower",
+      "Soldier's Rest",
+      "The Place Unbeknownst"
+    ]
+  },
+  {
+    "zoneName": "Heide's Tower of Flame",
+    "bonfires": ["Heide's Ruin", "Tower of Flame"]
+  },
+  {
+    "zoneName": "Cathedral of Blue",
+    "bonfires": ["The Blue Cathedral"]
+  },
+  {
+    "zoneName": "No Man's Wharf",
+    "bonfires": ["Unseen Path to Heide"]
+  },
+  {
+    "zoneName": "The Lost Bastille",
+    "bonfires": [
+      "Exile Holding Cells",
+      "McDuff's Workshop",
+      "Servants' Quarters",
+      "Straid's Cell",
+      "The Tower Apart"
+    ]
+  },
+  {
+    "zoneName": "Sinner's Rise",
+    "bonfires": ["The Saltfort"]
+  },
+  {
+    "zoneName": "Belfry Luna",
+    "bonfires": ["Upper Ramparts"]
+  },
+  {
+    "zoneName": "Huntsman's Copse",
+    "bonfires": ["Undead Refuge", "Bridge Approach", "Undead Lockaway"]
+  },
+  {
+    "zoneName": "Undead Purgatory",
+    "bonfires": ["Undead Purgatory"]
+  },
+  {
+    "zoneName": "Harvest Valley",
+    "bonfires": ["Poison Pool", "The Mines"]
+  },
+  {
+    "zoneName": "Earthen Peak",
+    "bonfires": [
+      "Lower Earthen Peak",
+      "Central Earthen Peak",
+      "Upper Earthen Peak"
+    ]
+  },
+  {
+    "zoneName": "Iron Keep",
+    "bonfires": ["Threshold Bridge", "Ironheart Hall", "Eygil's Idol"]
+  },
+  {
+    "zoneName": "Belfry Sol",
+    "bonfires": ["Belfry Sol Approach"]
+  },
+  {
+    "zoneName": "Shaded Woods",
+    "bonfires": ["Old Akelarre", "Ruined Fork Road", "Shaded Ruins"]
+  },
+  {
+    "zoneName": "Doors of Pharros",
+    "bonfires": ["Gyrm's Respite", "Ordeal's End"]
+  },
+  {
+    "zoneName": "Brightstone Cove Tseldora",
+    "bonfires": [
+      "Royal Army Campsite",
+      "Chapel Threshold",
+      "Lower Brightstone Cove"
+    ]
+  },
+  {
+    "zoneName": "Grave of Saints",
+    "bonfires": ["Harval's Resting Place", "Grave Entrance"]
+  },
+  {
+    "zoneName": "The Gutter",
+    "bonfires": ["Upper Gutter", "Central Gutter"]
+  },
+  {
+    "zoneName": "Black Gulch",
+    "bonfires": ["Black Gulch Mouth", "Hidden Chamber"]
+  },
+  {
+    "zoneName": "Drangleic Castle",
+    "bonfires": [
+      "King's Gate",
+      "Forgotten Chamber",
+      "Under Castle Drangleic",
+      "Central Castle Drangleic"
+    ]
+  },
+  {
+    "zoneName": "Shrine of Amana",
+    "bonfires": [
+      "Tower of Prayer",
+      "Crumbled Ruins",
+      "Rhoy's Resting Place",
+      "Rise of the Dead"
+    ]
+  },
+  {
+    "zoneName": "Undead Crypt",
+    "bonfires": ["Undead Crypt Entrance", "Undead Ditch"]
+  },
+  {
+    "zoneName": "Aldia's Keep",
+    "bonfires": ["Foregarden", "Ritual Site"]
+  },
+  {
+    "zoneName": "Dragon Aerie",
+    "bonfires": ["Dragon Aerie"]
+  },
+  {
+    "zoneName": "Dragon Shrine",
+    "bonfires": ["Shrine Entrance"]
+  }
+]

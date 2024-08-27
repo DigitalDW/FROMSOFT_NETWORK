@@ -1,0 +1,103 @@
+[
+  {
+    "zoneName": "Undead Asylum",
+    "bonfires": ["Undead Asylum 1", "Undead Asylum 2"]
+  },
+  {
+    "zoneName": "Firelink Shrine",
+    "bonfires": ["Firelink Shrine"]
+  },
+  {
+    "zoneName": "Firelink Altar",
+    "bonfires": ["Lordvessel"]
+  },
+  {
+    "zoneName": "Undead Burg",
+    "bonfires": ["Undead Burg", "Sunlight Altar"]
+  },
+  {
+    "zoneName": "Undead Parish",
+    "bonfires": ["Undead Parish"]
+  },
+  {
+    "zoneName": "Darkroot Garden",
+    "bonfires": ["Darkroot Garden"]
+  },
+  {
+    "zoneName": "Darkroot Basin",
+    "bonfires": ["Darkroot Basin"]
+  },
+  {
+    "zoneName": "Depths",
+    "bonfires": ["Depths"]
+  },
+  {
+    "zoneName": "Blighttown",
+    "bonfires": ["Blighttown Catwalk", "Blighttown Swamp"]
+  },
+  {
+    "zoneName": "Quelaag's Domain",
+    "bonfires": ["Daughter of Chaos"]
+  },
+  {
+    "zoneName": "The Great Hollow",
+    "bonfires": ["The Great Hollow"]
+  },
+  {
+    "zoneName": "Ash Lake",
+    "bonfires": ["Ash Lake", "Stone Dragon"]
+  },
+  {
+    "zoneName": "Demon Ruins",
+    "bonfires": [
+      "Demon Ruins Entrance",
+      "Demon Ruins Staircase",
+      "Demon Ruins Catacombs"
+    ]
+  },
+  {
+    "zoneName": "Lost Izalith",
+    "bonfires": ["Lost Izalith Lava Pits", "Lost Izalith 2", "Heart of Chaos"]
+  },
+  {
+    "zoneName": "Sen's Fortress",
+    "bonfires": ["Sen's Fortress"]
+  },
+  {
+    "zoneName": "Anor Londo",
+    "bonfires": [
+      "Anor Londo",
+      "Darkmoon Tomb",
+      "Anor Londo Residence",
+      "Chamber of the Princess"
+    ]
+  },
+  {
+    "zoneName": "Painted World of Ariamis",
+    "bonfires": ["Painted World of Ariamis"]
+  },
+  {
+    "zoneName": "The Duke's Archives",
+    "bonfires": ["Duke's Archives 1", "Duke's Archives 2", "Duke's Archives 3"]
+  },
+  {
+    "zoneName": "Crystal Cave",
+    "bonfires": ["Crystal Cave"]
+  },
+  {
+    "zoneName": "Catacombs",
+    "bonfires": ["Catacombs 1", "Catacombs 2"]
+  },
+  {
+    "zoneName": "Tomb of the Giants",
+    "bonfires": [
+      "Tomb of Giants 1",
+      "Tomb of Giants 2",
+      "Altar of the Gravelord"
+    ]
+  },
+  {
+    "zoneName": "The Abyss",
+    "bonfires": ["The Abyss"]
+  }
+]

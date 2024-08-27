@@ -1,0 +1,318 @@
+
+<tbody><tr>
+<th>Area Name</th>
+<th>Bonfire Name</th>
+<th>Landmark</th>
+<th>Notable For…</th>
+<th>Nearby Areas…</th>
+</tr>
+<tr>
+<td><a href="/undead-asylum">Undead Asylum</a></td>
+<td>Undead Asylum 1</td>
+<td>courtyard</td>
+<td></td>
+<td>Firelink Shrine</td>
+</tr>
+<tr>
+<td></td>
+<td>Undead Asylum 2</td>
+<td>after boss room</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/firelink-shrine">Firelink Shrine</a></td>
+<td><strong>Firelink Shrine</strong></td>
+<td>central hub</td>
+<td>Fire Keeper <a href="/anastacia-of-astora">Anastacia of Astora</a>, <a href="/way-of-white">Way of White</a> Covenant</td>
+<td>Undead Burg, Undead Parish, Catacombs,<br>
+New Londo Ruins, Lower Undead Burg, Undead Asylum</td>
+</tr>
+<tr>
+<td><a href="/firelink-altar">Firelink Altar</a></td>
+<td>Lordvessel</td>
+<td></td>
+<td>Cannot be kindled</td>
+<td>Firelink Shrine, Kiln of the First Flame</td>
+</tr>
+<tr>
+<td><a href="/undead-burg">Undead Burg</a></td>
+<td>Undead Burg</td>
+<td>below <a href="/hellkite-dragon">Hellkite Dragon</a> bridge</td>
+<td></td>
+<td>Undead Parish, Lower Undead Burg</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Sunlight Altar</strong></td>
+<td>after <a href="/hellkite-dragon">Hellkite Dragon</a></td>
+<td><a href="/warrior-of-sunlight">Warrior of Sunlight</a> Covenant</td>
+<td>Undead Parish</td>
+</tr>
+<tr>
+<td><a href="/undead-parish">Undead Parish</a></td>
+<td><strong>Undead Parish</strong> <a href="/additional-content">(1.06/PtDE only)</a></td>
+<td>by <a href="/andre-of-astora">Andre of Astora</a> Blacksmith</td>
+<td></td>
+<td>Sen's Fortress, Darkroot Garden</td>
+</tr>
+<tr>
+<td><a href="/darkroot-garden">Darkroot Garden</a></td>
+<td>Darkroot Garden</td>
+<td><a href="/illusory-wall">illusory wall</a> by <a href="/crest-of-artorias">Crest of Artorias</a> door</td>
+<td><a href="/forest-hunter">Forest Hunter</a> Covenant</td>
+<td>Undead Parish, Darkroot Basin</td>
+</tr>
+<tr>
+<td><a href="/darkroot-basin">Darkroot Basin</a></td>
+<td>Darkroot Basin</td>
+<td>by Valley of Drakes elevator</td>
+<td>near <a href="/hydra">Hydra</a></td>
+<td>Undead Burg, Valley of Drakes, Sanctuary Garden</td>
+</tr>
+<tr>
+<td><a href="/depths">Depths</a></td>
+<td><strong>Depths</strong> <a href="/additional-content">(1.06/PtDE only)</a></td>
+<td>door after slimes and torch hollows</td>
+<td>need <a href="/sewer-chamber-key">Sewer Chamber Key</a> or <a href="/master-key">Master Key</a></td>
+<td>Lower Undead Burg</td>
+</tr>
+<tr>
+<td><a href="/blighttown">Blighttown</a></td>
+<td>Blighttown Catwalk</td>
+<td>swaying catwalk</td>
+<td></td>
+<td>The Depths</td>
+</tr>
+<tr>
+<td></td>
+<td>Blighttown Swamp</td>
+<td>drain pipe near elevator</td>
+<td></td>
+<td>Queelag's Domain, The Great Hollow</td>
+</tr>
+<tr>
+<td><a href="/quelaag-s-domain">Quelaag's Domain</a></td>
+<td><strong>Daughter of Chaos</strong></td>
+<td><a href="/illusory-wall">illusory wall</a> below bell</td>
+<td>Fire Keeper <a href="/quelaag-s-sister">Quelaag's Sister</a>, <a href="/chaos-servant">Chaos Servant</a> Covenant</td>
+<td>Blighttown, Demon Ruins, Lost Izalith</td>
+</tr>
+<tr>
+<td><a href="/the-great-hollow">The Great Hollow</a></td>
+<td>The Great Hollow</td>
+<td>before tree descent</td>
+<td></td>
+<td>Blighttown</td>
+</tr>
+<tr>
+<td><a href="/ash-lake">Ash Lake</a></td>
+<td>Ash Lake</td>
+<td>after tree descent</td>
+<td>near <a href="/hydra">Hydra</a></td>
+<td>The Great Hollow</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Stone Dragon</strong></td>
+<td>end of Ash Lake</td>
+<td><a href="/path-of-the-dragon">Path of the Dragon</a> Covenant</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/demon-ruins">Demon Ruins</a></td>
+<td>Demon Ruins Entrance</td>
+<td>before <a href="/ceaseless-discharge">Ceaseless Discharge</a></td>
+<td></td>
+<td>Queelag's Domain</td>
+</tr>
+<tr>
+<td></td>
+<td>Demon Ruins Staircase</td>
+<td>before <a href="/demon-firesage">Demon Firesage</a></td>
+<td>guarded by rockworm</td>
+<td>Lost Izalith</td>
+</tr>
+<tr>
+<td></td>
+<td>Demon Ruins Catacombs</td>
+<td>before <a href="/centipede-demon">Centipede Demon</a></td>
+<td>below Daughter of Chaos elevator</td>
+<td>Queelag's Domain. Lost Izalith</td>
+</tr>
+<tr>
+<td><a href="/lost-izalith">Lost Izalith</a></td>
+<td>Lost Izalith Lava Pits</td>
+<td>after <a href="/centipede-demon">Centipede Demon</a></td>
+<td><a href="/solaire-of-astora">Solaire of Astora</a></td>
+<td>Demon's Ruins</td>
+</tr>
+<tr>
+<td></td>
+<td>Lost Izalith 2</td>
+<td><a href="/illusory-wall">illusory wall</a> in the dino pool</td>
+<td></td>
+<td>Demon's Ruins</td>
+</tr>
+<tr>
+<td></td>
+<td>Heart of Chaos</td>
+<td>after defeating <a href="/bed-of-chaos">Bed of Chaos</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/sen-s-fortress">Sen's Fortress</a></td>
+<td>Sen's Fortress</td>
+<td>upper path</td>
+<td></td>
+<td>Anor Londo</td>
+</tr>
+<tr>
+<td><a href="/anor-londo">Anor Londo</a></td>
+<td><strong>Anor Londo</strong></td>
+<td>downstairs from large open area</td>
+<td>Fire Keeper <a href="/lady-of-the-darkling">Lady of the Darkling</a></td>
+<td>Sen's Fortress, Duke's Archives</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Darkmoon Tomb</strong></td>
+<td>statue room near spiral staircase</td>
+<td><a href="/blade-of-the-darkmoon">Blade of the Darkmoon</a> Covenant</td>
+<td>Painted World</td>
+</tr>
+<tr>
+<td></td>
+<td>Anor Londo Residence</td>
+<td>fireplace room</td>
+<td><a href="/solaire-of-astora">Solaire of Astora</a></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Chamber of the Princess</strong></td>
+<td>after defeating <a href="/dragon-slayer-ornstein-executioner-smough">Smough &amp; Ornstein</a></td>
+<td><a href="/princess-s-guard">Princess's Guard</a> Covenant</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/painted-world-of-ariamis">Painted World of Ariamis</a></td>
+<td><strong>Painted World of Ariamis</strong> <a href="/additional-content">(1.06/PtDE only)</a></td>
+<td>after entrance bridge</td>
+<td>close to Phalanx shortcut door</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/the-duke-s-archives">The Duke's Archives</a></td>
+<td>Duke's Archives 1</td>
+<td>before fighting <a href="/seath-the-scaleless">Seath</a> first time</td>
+<td></td>
+<td>Anor Londo</td>
+</tr>
+<tr>
+<td></td>
+<td>Duke's Archives 2</td>
+<td>prison cell</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Duke's Archives 3</strong> <a href="/additional-content">(1.06/PtDE only)</a></td>
+<td>balcony near Crystal Caves</td>
+<td></td>
+<td>Crystal Caves</td>
+</tr>
+<tr>
+<td><a href="/crystal-cave">Crystal Cave</a></td>
+<td><strong>Crystal Cave</strong></td>
+<td>after defeating <a href="/seath-the-scaleless">Seath</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/catacombs">Catacombs</a></td>
+<td>Catacombs 1</td>
+<td>first necromancer</td>
+<td></td>
+<td>Firelink Shrine</td>
+</tr>
+<tr>
+<td></td>
+<td>Catacombs 2</td>
+<td><a href="/illusory-wall">illusory wall</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Catacombs 3</strong> <a class="newpage" href="/remastered-only">(Remastered only)</a></td>
+<td>by <a href="/vamos">Vamos</a> Blacksmith</td>
+<td></td>
+<td>Tomb of Giants</td>
+</tr>
+<tr>
+<td><a href="/tomb-of-the-giants">Tomb of the Giants</a></td>
+<td><strong>Tomb of Giants 1</strong> <a href="/additional-content">(1.06/PtDE only)</a></td>
+<td>by <a href="/patches">Patches</a></td>
+<td></td>
+<td>Catacombs</td>
+</tr>
+<tr>
+<td></td>
+<td>Tomb of Giants 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Altar of the Gravelord</strong></td>
+<td>after defeating <a href="/gravelord-nito">Gravelord Nito</a></td>
+<td><a href="/gravelord-servant">Gravelord Servant</a> Covenant</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/the-abyss">The Abyss</a></td>
+<td><strong>The Abyss</strong></td>
+<td>after defeating <a href="/four-kings">Four Kings</a></td>
+<td><a href="/darkwraith">Darkwraith</a> Covenant</td>
+<td>New Londo Ruins</td>
+</tr>
+<tr>
+<td><a href="/sanctuary-garden">Sanctuary Garden</a></td>
+<td><strong>Sanctuary Garden</strong></td>
+<td></td>
+<td></td>
+<td>Oolacile Sanctuary</td>
+</tr>
+<tr>
+<td><a href="/oolacile-sanctuary">Oolacile Sanctuary</a></td>
+<td><strong>Oolacile Sanctuary</strong></td>
+<td>after defeating <a href="/sanctuary-guardian">Sanctuary Guardian</a></td>
+<td></td>
+<td>Sanctuary Garden, Royal Wood</td>
+</tr>
+<tr>
+<td><a href="/oolacile-township">Oolacile Township</a></td>
+<td><strong>Oolacile Township</strong></td>
+<td>after defeating <a href="/knight-artorias">Artorias</a></td>
+<td></td>
+<td>Royal Wood, Battle of Stoicism Gazebo</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Oolacile Township Dungeon</strong></td>
+<td>past the <a href="/chained-prisoner">Chained Prisoner</a></td>
+<td></td>
+<td>Chasm of the Abyss</td>
+</tr>
+<tr>
+<td><a href="/chasm-of-the-abyss">Chasm of the Abyss</a></td>
+<td><strong>Chasm of the Abyss</strong></td>
+<td>after defeating <a href="/manus-father-of-the-abyss">Manus</a></td>
+<td></td>
+<td>Royal Wood, Oolacile Township</td>
+</tr>
+</tbody>

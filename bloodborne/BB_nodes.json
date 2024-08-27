@@ -1,0 +1,49 @@
+[
+  { "zone": "Yharnam", "name": "1st Floor Sick Room", "id": 1 },
+  { "zone": "Yharnam", "name": "Central Yharnam", "id": 2 },
+  { "zone": "Yharnam", "name": "Great Bridge", "id": 3 },
+  { "zone": "Yharnam", "name": "Tomb of Oedon", "id": 4 },
+  { "zone": "Yharnam", "name": "Cathedral Ward", "id": 5 },
+  { "zone": "Yharnam", "name": "Grand Cathedral", "id": 6 },
+  { "zone": "Yharnam", "name": "Upper Cathedral Ward", "id": 7 },
+  { "zone": "Yharnam", "name": "Lumenflower Gardens", "id": 8 },
+  { "zone": "Yharnam", "name": "Altar of Despair", "id": 9 },
+  { "zone": "Yharnam", "name": "Old Yharnam", "id": 10 },
+  {
+    "zone": "Yharnam",
+    "name": "Church of the Good Chalice",
+    "id": 11
+  },
+  {
+    "zone": "Yharnam",
+    "name": "Graveyard of the Darkbeast",
+    "id": 12
+  },
+  { "zone": "Frontier", "name": "Hemwick Charnel Lane", "id": 13 },
+  { "zone": "Frontier", "name": "Witch's Abode", "id": 14 },
+  { "zone": "Frontier", "name": "Forbidden Woods", "id": 15 },
+  { "zone": "Frontier", "name": "Forbidden Grave", "id": 16 },
+  { "zone": "Frontier", "name": "Byrgenwerth", "id": 17 },
+  { "zone": "Frontier", "name": "Moonside Lake", "id": 18 },
+  { "zone": "Unseen", "name": "Yahar'gul, Unseen Village", "id": 19 },
+  { "zone": "Unseen", "name": "Yahar'gul Chapel", "id": 20 },
+  { "zone": "Unseen", "name": "Advent Plaza", "id": 21 },
+  { "zone": "Unseen", "name": "Hypogean Gaol", "id": 22 },
+  { "zone": "Unseen", "name": "Forsaken Castle Cainhurst", "id": 23 },
+  { "zone": "Unseen", "name": "Logarius' Seat", "id": 24 },
+  { "zone": "Unseen", "name": "Vileblood Queen's Chamber", "id": 25 },
+  { "zone": "Unseen", "name": "Abandoned Old Workshop", "id": 26 },
+  { "zone": "Nightmare", "name": "Lecture Building", "id": 27 },
+  {
+    "zone": "Nightmare",
+    "name": "Lecture Building 2nd Floor",
+    "id": 28
+  },
+  { "zone": "Nightmare", "name": "Nightmare Frontier", "id": 29 },
+  { "zone": "Nightmare", "name": "Amygdala's Chamber", "id": 30 },
+  { "zone": "Nightmare", "name": "Nightmare of Mensis", "id": 31 },
+  { "zone": "Nightmare", "name": "Mergo's Loft Base", "id": 32 },
+  { "zone": "Nightmare", "name": "Mergo's Loft Middle", "id": 33 },
+  { "zone": "Nightmare", "name": "Wet Nurse's Lunarium", "id": 34 },
+  { "zone": "Hunter's Dream", "name": "Hunter's Dream", "id": 35 }
+]

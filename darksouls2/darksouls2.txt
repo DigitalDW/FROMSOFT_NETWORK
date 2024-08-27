@@ -1,0 +1,548 @@
+
+<tbody><tr>
+<th>Area Name</th>
+<th>Bonfire Name</th>
+<th>Landmark</th>
+<th>Notable For…</th>
+<th>Nearby Areas…</th>
+</tr>
+<tr>
+<td><a href="/things-betwixt">Things Betwixt</a></td>
+<td>Fire Keepers' Dwelling</td>
+<td></td>
+<td>Character Re-specialization (<a href="/soul-vessel">Soul Vessel</a> required)</td>
+<td><a href="/majula">Majula</a></td>
+</tr>
+<tr>
+<td><a href="/majula">Majula</a></td>
+<td>The Far Fire</td>
+<td>Central hub</td>
+<td><a href="/company-of-champions">Company of Champions</a> and <a href="/way-of-blue">Way of Blue</a> covenant location</td>
+<td><a href="/forest-of-fallen-giants">Forest of Fallen Giants</a>, <a href="/things-betwixt">Things Betwixt</a>, <a href="/shaded-woods">Shaded Woods</a>, <a href="/heide-s-tower-of-flame">Heide's Tower of Flame</a>, <a href="/huntsman-s-copse">Huntsman's Copse</a>, <a href="/grave-of-saints">Grave of Saints</a>, <a href="/the-gutter">The Gutter</a></td>
+</tr>
+<tr>
+<td><a href="/forest-of-fallen-giants">Forest of Fallen Giants</a></td>
+<td>The Crestfallen's Retreat</td>
+<td></td>
+<td></td>
+<td><a href="/majula">Majula</a>, <a href="/the-lost-bastille">The Lost Bastille</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Cardinal Tower</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Soldier's Rest</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>The Place Unbeknownst</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/heide-s-tower-of-flame">Heide's Tower of Flame</a></td>
+<td>Heide's Ruin</td>
+<td></td>
+<td></td>
+<td><a href="/majula">Majula</a>, <a href="/cathedral-of-blue">Cathedral of Blue</a>, <a href="/no-man-s-wharf">No Man's Wharf</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Tower of Flame</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/cathedral-of-blue">Cathedral of Blue</a></td>
+<td>The Blue Cathedral</td>
+<td></td>
+<td><a href="/blue-sentinels">Blue Sentinels</a> covenant location</td>
+<td><a href="/heide-s-tower-of-flame">Heide's Tower of Flame</a></td>
+</tr>
+<tr>
+<td><a href="/no-man-s-wharf">No Man's Wharf</a></td>
+<td>Unseen Path to Heide</td>
+<td></td>
+<td></td>
+<td><a href="/heide-s-tower-of-flame">Heide's Tower of Flame</a>, <a href="/the-lost-bastille">The Lost Bastille</a></td>
+</tr>
+<tr>
+<td><a href="/the-lost-bastille">The Lost Bastille</a></td>
+<td>Exile Holding Cells</td>
+<td></td>
+<td></td>
+<td><a href="/forest-of-fallen-giants">Forest of Fallen Giants</a>, <a href="/no-man-s-wharf">No Man's Wharf</a>, <a href="/sinner-s-rise">Sinner's Rise</a>, <a href="/belfry-luna">Belfry Luna</a></td>
+</tr>
+<tr>
+<td></td>
+<td>McDuff's Workshop</td>
+<td></td>
+<td><a href="/steady-hand-mcduff">Steady Hand McDuff</a> blacksmith location</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Servants' Quarters</td>
+<td></td>
+<td>Access to Belfry Luna</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Straid's Cell</td>
+<td></td>
+<td><a href="/straid-of-olaphis">Straid Of Olaphis</a></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>The Tower Apart</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/belfry-luna">Belfry Luna</a></td>
+<td>Upper Ramparts</td>
+<td></td>
+<td><a href="/bell-keepers">Bell Keepers</a> covenant location</td>
+<td><a href="/the-lost-bastille">The Lost Bastille</a></td>
+</tr>
+<tr>
+<td><a href="/sinner-s-rise">Sinner's Rise</a></td>
+<td>The Saltfort</td>
+<td></td>
+<td></td>
+<td><a href="/the-lost-bastille">The Lost Bastille</a></td>
+</tr>
+<tr>
+<td><a href="/huntsman-s-copse">Huntsman's Copse</a></td>
+<td>Undead Refuge</td>
+<td></td>
+<td><a href="/felkin-the-outcast">Felkin the Outcast</a></td>
+<td><a href="/majula">Majula</a>, <a href="/undead-purgatory">Undead Purgatory</a>, <a href="/harvest-valley">Harvest Valley</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Bridge Approach</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Undead Lockaway</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/undead-purgatory">Undead Purgatory</a></td>
+<td>Undead Purgatory</td>
+<td></td>
+<td><a href="/brotherhood-of-blood">Brotherhood of Blood</a> covenant location</td>
+<td><a href="/huntsman-s-copse">Huntsman's Copse</a></td>
+</tr>
+<tr>
+<td><a href="/harvest-valley">Harvest Valley</a></td>
+<td>Poison Pool</td>
+<td></td>
+<td></td>
+<td><a href="/majula">Majula</a>, <a href="/huntsman-s-copse">Huntsman's Copse</a>, <a href="/earthen-peak">Earthen Peak</a></td>
+</tr>
+<tr>
+<td></td>
+<td>The Mines</td>
+<td></td>
+<td><a href="/heirs-of-the-sun">Heirs of the Sun</a> covenant location</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/earthen-peak">Earthen Peak</a></td>
+<td>Lower Earthen Peak</td>
+<td></td>
+<td></td>
+<td><a href="/harvest-valley">Harvest Valley</a>, <a href="/iron-keep">Iron Keep</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Central Earthen Peak</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Upper Earthen Peak</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/iron-keep">Iron Keep</a></td>
+<td>Threshold Bridge</td>
+<td></td>
+<td><a href="/dragon-remnants">Dragon Remnants</a> covenant location</td>
+<td><a href="/earthen-peak">Earthen Peak</a>, <a href="/belfry-sol">Belfry Sol</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Ironheart Hall</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Eygil's Idol</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/belfry-sol">Belfry Sol</a></td>
+<td>Belfry Sol</td>
+<td></td>
+<td><a href="/bell-keepers">Bell Keepers</a> covenant location</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/shaded-woods">Shaded Woods</a></td>
+<td>Old Akelarre</td>
+<td></td>
+<td></td>
+<td><a href="/doors-of-pharros">Doors of Pharros</a>, <a href="/aldia-s-keep">Aldia's Keep</a>, <a href="/shrine-of-winter">Shrine of Winter</a>, <a href="/majula">Majula</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Ruined Fork Road</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Shaded Ruins</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/doors-of-pharros">Doors of Pharros</a></td>
+<td>Gyrm's Respite</td>
+<td></td>
+<td><a href="/lonesome-gavlan">Lonesome Gavlan</a></td>
+<td><a href="/shaded-woods">Shaded Woods</a>, <a href="/brightstone-cove-tseldora">Brightstone Cove Tseldora</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Ordeal's End</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/brightstone-cove-tseldora">Brightstone Cove Tseldora</a></td>
+<td>Royal Army Campsite</td>
+<td></td>
+<td></td>
+<td><a href="/doors-of-pharros">Doors of Pharros</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Chapel Threshold</td>
+<td></td>
+<td><a href="/cromwell-the-pardoner">Cromwell The Pardoner</a></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Lower Brightstone Cove</td>
+<td></td>
+<td><a href="/weaponsmith-ornifex">Weaponsmith Ornifex</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/grave-of-saints">Grave of Saints</a></td>
+<td>Harval's Resting Place</td>
+<td></td>
+<td></td>
+<td><a href="/majula">Majula</a>, <a href="/the-gutter">The Gutter</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Grave Entrance</td>
+<td></td>
+<td><a href="/rat-king-covenant">Rat King Covenant</a> location</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/the-gutter">The Gutter</a></td>
+<td>Upper Gutter</td>
+<td></td>
+<td></td>
+<td><a href="/grave-of-saints">Grave of Saints</a>, <a href="/black-gulch">Black Gulch</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Central Gutter</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/black-gulch">Black Gulch</a></td>
+<td>Black Gulch Mouth</td>
+<td></td>
+<td></td>
+<td><a href="/the-gutter">The Gutter</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Hidden Chamber</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/drangleic-castle">Drangleic Castle</a></td>
+<td>King's Gate</td>
+<td></td>
+<td></td>
+<td><a href="/shrine-of-winter">Shrine of Winter</a>, <a href="/king-s-passage">King's Passage</a>, <a href="/throne-of-want">Throne of Want</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Under Castle Drangleic</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Forgotten Chamber</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Central Castle Drangleic</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/shrine-of-amana">Shrine of Amana</a></td>
+<td>Tower of Prayer</td>
+<td></td>
+<td></td>
+<td><a href="/king-s-passage">King's Passage</a>, <a href="/undead-crypt">Undead Crypt</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Crumbled Ruins</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Rhoy's Resting Place</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Rise of the Dead</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/undead-crypt">Undead Crypt</a></td>
+<td>Undead Crypt Entrance</td>
+<td></td>
+<td></td>
+<td><a href="/shrine-of-amana">Shrine of Amana</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Undead Ditch</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/aldia-s-keep">Aldia's Keep</a></td>
+<td>Foregarden</td>
+<td></td>
+<td></td>
+<td><a href="/shaded-woods">Shaded Woods</a>, <a href="/dragon-aerie">Dragon Aerie</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Ritual Site</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/dragon-aerie">Dragon Aerie</a></td>
+<td>Dragon Aerie</td>
+<td></td>
+<td></td>
+<td><a href="/aldia-s-keep">Aldia's Keep</a>, <a href="/dragon-shrine">Dragon Shrine</a></td>
+</tr>
+<tr>
+<td><a href="/dragon-shrine">Dragon Shrine</a></td>
+<td>Shrine Entrance</td>
+<td></td>
+<td></td>
+<td><a href="/dragon-aerie">Dragon Aerie</a></td>
+</tr>
+<tr>
+<td><a href="/shulva-sanctum-city">Shulva, Sanctum City</a></td>
+<td>Sanctum Walk</td>
+<td></td>
+<td></td>
+<td><a href="/dragon-s-sanctum">Dragon's Sanctum</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Tower of Prayer</td>
+<td></td>
+<td></td>
+<td><a href="/dragon-s-sanctum">Dragon's Sanctum</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Priestess' Chamber</td>
+<td></td>
+<td></td>
+<td><a href="/cave-of-the-dead">Cave of the Dead</a>, <a href="/dragon-s-sanctum">Dragon's Sanctum</a></td>
+</tr>
+<tr>
+<td><a href="/dragon-s-sanctum">Dragon's Sanctum</a></td>
+<td>Hidden Sanctum Chamber</td>
+<td></td>
+<td></td>
+<td><a href="/dragon-s-rest">Dragon's Rest</a>, <a href="/cave-of-the-dead">Cave of the Dead</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Lair of the Imperfect</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Sanctum Interior</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/dragon-s-rest">Dragon's Rest</a></td>
+<td>Sanctum Nadir</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/brume-tower">Brume Tower</a></td>
+<td>Throne Floor</td>
+<td></td>
+<td></td>
+<td><a href="/iron-keep">Iron Keep</a>, <a href="/iron-passage">Iron Passage</a>, <a href="/memory-of-the-old-iron-king">Memory of the Old Iron King</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Upper Floor</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Foyer</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Lowermost Floor</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>The Smelter Throne</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/iron-passage">Iron Passage</a></td>
+<td>Iron Hallway Entrance</td>
+<td></td>
+<td></td>
+<td><a href="/brume-tower">Brume Tower</a></td>
+</tr>
+<tr>
+<td><a href="/frozen-eleum-loyce">Frozen Eleum Loyce</a></td>
+<td>Outer Wall</td>
+<td></td>
+<td></td>
+<td><a href="/shrine-of-winter">Shrine of Winter</a>, <a href="/grand-cathedral">Grand Cathedral</a>, <a href="/frigid-outskirts">Frigid Outskirts</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Abandoned Dwelling</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Inner Wall</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Lower Garrison</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Expulsion Chamber</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/grand-cathedral">Grand Cathedral</a></td>
+<td>Grand Cathedral</td>
+<td></td>
+<td></td>
+<td><a href="/frozen-eleum-loyce">Frozen Eleum Loyce</a></td>
+</tr>
+</tbody>

@@ -1,0 +1,56 @@
+[
+  {
+    "zoneName": "Yharnam Headstone",
+    "lamps": [
+      "1st Floor Sick Room",
+      "Central Yharnam",
+      "Great Bridge",
+      "Tomb of Oedon",
+      "Cathedral Ward",
+      "Grand Cathedral",
+      "Upper Cathedral Ward",
+      "Lumenflower Gardens",
+      "Altar of Despair",
+      "Old Yharnam",
+      "Church of the Good Chalice",
+      "Graveyard of the Darkbeast"
+    ]
+  },
+  {
+    "zoneName": "Frontier Headstone",
+    "lamps": [
+      "Hemwick Charnel Lane",
+      "Witch's Abode",
+      "Forbidden Woods",
+      "Forbidden Grave",
+      "Byrgenwerth",
+      "Moonside Lake"
+    ]
+  },
+  {
+    "zoneName": "Unseen Headstone",
+    "lamps": [
+      "Yahar'gul, Unseen Village",
+      "Yahar'gul Chapel",
+      "Advent Plaza",
+      "Hypogean Gaol",
+      "Forsaken Castle Cainhurst",
+      "Logarius' Seat",
+      "Vileblood Queen's Chamber",
+      "Abandoned Old Workshop"
+    ]
+  },
+  {
+    "zoneName": "Nightmare Headstone",
+    "lamps": [
+      "Lecture Building",
+      "Lecture Building 2nd Floor",
+      "Nightmare Frontier",
+      "Amygdala's Chamber",
+      "Nightmare of Mensis",
+      "Mergo's Loft Base",
+      "Mergo's Loft Middle",
+      "Wet Nurse's Lunarium"
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+<zones>
+  <zone>
+    <zoneName>Undead Asylum</zoneName>
+    <bonfires>
+      <name>Undead Asylum 1</name>
+      <name>Undead Asylum 2</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Firelink Shrine</zoneName>
+    <bonfires><name>Firelink Shrine</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Firelink Altar</zoneName>
+    <bonfires><name>Lordvessel</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Undead Burg</zoneName>
+    <bonfires>
+      <name>Undead Burg</name>
+      <name>Sunlight Altar</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Undead Parish</zoneName>
+    <bonfires><name>Undead Parish</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Darkroot Garden</zoneName>
+    <bonfires><name>Darkroot Garden</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Darkroot Basin</zoneName>
+    <bonfires><name>Darkroot Basin</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Depths</zoneName>
+    <bonfires><name>Depths</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Blighttown</zoneName>
+    <bonfires>
+      <name>Blighttown Catwalk</name>
+      <name>Blighttown Swamp</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Quelaag's Domain</zoneName>
+    <bonfires><name>Daughter of Chaos</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>The Great Hollow</zoneName>
+    <bonfires><name>The Great Hollow</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Ash Lake</zoneName>
+    <bonfires>
+      <name>Ash Lake</name>
+      <name>Stone Dragon</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Demon Ruins</zoneName>
+    <bonfires>
+      <name>Demon Ruins Entrance</name>
+      <name>Demon Ruins Staircase</name>
+      <name>Demon Ruins Catacombs</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Lost Izalith</zoneName>
+    <bonfires>
+      <name>Lost Izalith Lava Pits</name>
+      <name>Lost Izalith 2</name>
+      <name>Heart of Chaos</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Sen's Fortress</zoneName>
+    <bonfires><name>Sen's Fortress</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Anor Londo</zoneName>
+    <bonfires>
+      <name>Anor Londo</name>
+      <name>Darkmoon Tomb</name>
+      <name>Anor Londo Residence</name>
+      <name>Chamber of the Princess</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Painted World of Ariamis</zoneName>
+    <bonfires><name>Painted World of Ariamis</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>The Duke's Archives</zoneName>
+    <bonfires>
+      <name>Duke's Archives 1</name>
+      <name>Duke's Archives 2</name>
+      <name>Duke's Archives 3</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Crystal Cave</zoneName>
+    <bonfires><name>Crystal Cave</name></bonfires>
+  </zone>
+  <zone>
+    <zoneName>Catacombs</zoneName>
+    <bonfires>
+      <name>Catacombs 1</name>
+      <name>Catacombs 2</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>Tomb of the Giants</zoneName>
+    <bonfires>
+      <name>Tomb of Giants 1</name>
+      <name>Tomb of Giants 2</name>
+      <name>Altar of the Gravelord</name>
+    </bonfires>
+  </zone>
+  <zone>
+    <zoneName>The Abyss</zoneName>
+    <bonfires><name>The Abyss</name></bonfires>
+  </zone>
+</zones>

@@ -1,0 +1,48 @@
+<regions>
+  <region>
+    <regionName>Yharnam Headstone</regionName>
+    <lamps>1st Floor Sick Room</lamps>
+    <lamps>Central Yharnam</lamps>
+    <lamps>Great Bridge</lamps>
+    <lamps>Tomb of Oedon</lamps>
+    <lamps>Cathedral Ward</lamps>
+    <lamps>Grand Cathedral</lamps>
+    <lamps>Upper Cathedral Ward</lamps>
+    <lamps>Lumenflower Gardens</lamps>
+    <lamps>Altar of Despair</lamps>
+    <lamps>Old Yharnam</lamps>
+    <lamps>Church of the Good Chalice</lamps>
+    <lamps>Graveyard of the Darkbeast</lamps>
+  </region>
+  <region>
+    <regionName>Frontier Headstone</regionName>
+    <lamps>Hemwick Charnel Lane</lamps>
+    <lamps>Witch's Abode</lamps>
+    <lamps>Forbidden Woods</lamps>
+    <lamps>Forbidden Grave</lamps>
+    <lamps>Byrgenwerth</lamps>
+    <lamps>Moonside Lake</lamps>
+  </region>
+  <region>
+    <regionName>Unseen Headstone</regionName>
+    <lamps>Yahar'gul, Unseen Village</lamps>
+    <lamps>Yahar'gul Chapel</lamps>
+    <lamps>Advent Plaza</lamps>
+    <lamps>Hypogean Gaol</lamps>
+    <lamps>Forsaken Castle Cainhurst</lamps>
+    <lamps>Logarius' Seat</lamps>
+    <lamps>Vileblood Queen's Chamber</lamps>
+    <lamps>Abandoned Old Workshop</lamps>
+  </region>
+  <region>
+    <regionName>Nightmare Headstone</regionName>
+    <lamps>Lecture Building</lamps>
+    <lamps>Lecture Building 2nd Floor</lamps>
+    <lamps>Nightmare Frontier</lamps>
+    <lamps>Amygdala's Chamber</lamps>
+    <lamps>Nightmare of Mensis</lamps>
+    <lamps>Mergo's Loft Base</lamps>
+    <lamps>Mergo's Loft Middle</lamps>
+    <lamps>Wet Nurse's Lunarium</lamps>
+  </region>
+</regions>

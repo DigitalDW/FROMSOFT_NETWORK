@@ -1,0 +1,93 @@
+<zones>
+  <zone>
+    <zoneName>Cemetery of Ash</zoneName>
+    <bonfires>Firelink Shrine</bonfires>
+    <bonfires>Cemetery of Ash</bonfires>
+    <bonfires>Iudex Gundyr</bonfires>
+    <bonfires>Untended Graves</bonfires>
+    <bonfires>Champion Gundyr</bonfires>
+  </zone>
+  <zone>
+    <zoneName>High Wall of Lothric</zoneName>
+    <bonfires>High Wall of Lothric</bonfires>
+    <bonfires>Tower on the Wall</bonfires>
+    <bonfires>Vordt of the Boreal Valley</bonfires>
+    <bonfires>Dancer of the Boreal Valley</bonfires>
+    <bonfires>Oceiros, the Consumed King</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Undead Settlement</zoneName>
+    <bonfires>Foot of the High Wall</bonfires>
+    <bonfires>Undead Settlement</bonfires>
+    <bonfires>Cliff Underside</bonfires>
+    <bonfires>Dilapidated Bridge</bonfires>
+    <bonfires>Pit of Hollows</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Road of Sacrifices</zoneName>
+    <bonfires>Road of Sacrifices</bonfires>
+    <bonfires>Halfway Fortress</bonfires>
+    <bonfires>Crucifixion Woods</bonfires>
+    <bonfires>Crystal Sage</bonfires>
+    <bonfires>Farron Keep</bonfires>
+    <bonfires>Keep Ruins</bonfires>
+    <bonfires>Farron Keep Perimeter</bonfires>
+    <bonfires>Old Wolf of Farron</bonfires>
+    <bonfires>Abyss Watchers</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Cathedral of the Deep</zoneName>
+    <bonfires>Cathedral of the Deep</bonfires>
+    <bonfires>Cleansing Chapel</bonfires>
+    <bonfires>Rosaria's Bed Chamber</bonfires>
+    <bonfires>Deacons of the Deep</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Catacombs of Carthus</zoneName>
+    <bonfires>Catacombs of Carthus</bonfires>
+    <bonfires>High Lord Wolnir</bonfires>
+    <bonfires>Abandoned Tomb</bonfires>
+    <bonfires>Old King's Antechamber</bonfires>
+    <bonfires>Demon Ruins</bonfires>
+    <bonfires>Old Demon King</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Irithyll of the Boreal Valley</zoneName>
+    <bonfires>Irithyll of the Boreal Valley</bonfires>
+    <bonfires>Central Irithyll</bonfires>
+    <bonfires>Church of Yorshka</bonfires>
+    <bonfires>Distant Manor</bonfires>
+    <bonfires>Pontiff Sulyvahn</bonfires>
+    <bonfires>Water Reserve</bonfires>
+    <bonfires>Anor Londo</bonfires>
+    <bonfires>Prison Tower</bonfires>
+    <bonfires>Aldrich, Devourer of Gods</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Irithyll Dungeon</zoneName>
+    <bonfires>Irithyll Dungeon</bonfires>
+    <bonfires>Profaned Capital</bonfires>
+    <bonfires>Yhorm the Giant</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Lothric Castle</zoneName>
+    <bonfires>Lothric Castle</bonfires>
+    <bonfires>Dragon Barracks</bonfires>
+    <bonfires>Dragonslayer Armour</bonfires>
+    <bonfires>Grand Archives</bonfires>
+    <bonfires>Twin Princes</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Archdragon Peak</zoneName>
+    <bonfires>Archdragon Peak</bonfires>
+    <bonfires>Dragon-Kin Mausoleum</bonfires>
+    <bonfires>Great Belfry</bonfires>
+    <bonfires>Nameless King</bonfires>
+  </zone>
+  <zone>
+    <zoneName>Kiln of the First Flame</zoneName>
+    <bonfires>Flameless Shrine</bonfires>
+    <bonfires>Kiln of the First Flame</bonfires>
+    <bonfires>Soul of Cinder</bonfires>
+  </zone>
+</zones>

@@ -1,0 +1,111 @@
+[
+  {
+    "zoneName": "Cemetery of Ash",
+    "bonfires": [
+      "Firelink Shrine",
+      "Cemetery of Ash",
+      "Iudex Gundyr",
+      "Untended Graves",
+      "Champion Gundyr"
+    ]
+  },
+  {
+    "zoneName": "High Wall of Lothric",
+    "bonfires": [
+      "High Wall of Lothric",
+      "Tower on the Wall",
+      "Vordt of the Boreal Valley",
+      "Dancer of the Boreal Valley",
+      "Oceiros, the Consumed King"
+    ]
+  },
+  {
+    "zoneName": "Undead Settlement",
+    "bonfires": [
+      "Foot of the High Wall",
+      "Undead Settlement",
+      "Cliff Underside",
+      "Dilapidated Bridge",
+      "Pit of Hollows"
+    ]
+  },
+  {
+    "zoneName": "Road of Sacrifices",
+    "bonfires": [
+      "Road of Sacrifices",
+      "Halfway Fortress",
+      "Crucifixion Woods",
+      "Crystal Sage",
+      "Farron Keep",
+      "Keep Ruins",
+      "Farron Keep Perimeter",
+      "Old Wolf of Farron",
+      "Abyss Watchers"
+    ]
+  },
+  {
+    "zoneName": "Cathedral of the Deep",
+    "bonfires": [
+      "Cathedral of the Deep",
+      "Cleansing Chapel",
+      "Rosaria's Bed Chamber",
+      "Deacons of the Deep"
+    ]
+  },
+  {
+    "zoneName": "Catacombs of Carthus",
+    "bonfires": [
+      "Catacombs of Carthus",
+      "High Lord Wolnir",
+      "Abandoned Tomb",
+      "Old King's Antechamber",
+      "Demon Ruins",
+      "Old Demon King"
+    ]
+  },
+  {
+    "zoneName": "Irithyll of the Boreal Valley",
+    "bonfires": [
+      "Irithyll of the Boreal Valley",
+      "Central Irithyll",
+      "Church of Yorshka",
+      "Distant Manor",
+      "Pontiff Sulyvahn",
+      "Water Reserve",
+      "Anor Londo",
+      "Prison Tower",
+      "Aldrich, Devourer of Gods"
+    ]
+  },
+  {
+    "zoneName": "Irithyll Dungeon",
+    "bonfires": ["Irithyll Dungeon", "Profaned Capital", "Yhorm the Giant"]
+  },
+  {
+    "zoneName": "Lothric Castle",
+    "bonfires": [
+      "Lothric Castle",
+      "Dragon Barracks",
+      "Dragonslayer Armour",
+      "Grand Archives",
+      "Twin Princes"
+    ]
+  },
+  {
+    "zoneName": "Archdragon Peak",
+    "bonfires": [
+      "Archdragon Peak",
+      "Dragon-Kin Mausoleum",
+      "Great Belfry",
+      "Nameless King"
+    ]
+  },
+  {
+    "zoneName": "Kiln of the First Flame",
+    "bonfires": [
+      "Flameless Shrine",
+      "Kiln of the First Flame",
+      "Soul of Cinder"
+    ]
+  }
+]
