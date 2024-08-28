@@ -94,13 +94,13 @@ def use_json(json_data):
                 choice = input("")
                 if choice.upper() == "Y":
                     break
-                selected_checkpoints.append(int(choice)-1)
+                selected_checkpoints.append(int(choice))
             except ValueError:
                 print("Please enter a valid number.")
         
         constructed_data.append(
             {
-                "origin": available_nodes.index(checkpoint["name"]),
+                "origin": available_nodes.index(checkpoint["name"])+1,
                 "dest": selected_checkpoints
             }
         )
