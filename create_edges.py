@@ -104,7 +104,6 @@ def use_json(json_data):
                 "dest": selected_checkpoints
             }
         )
-        break
     
     return constructed_data
 
