@@ -90,13 +90,17 @@ def use_json(json_data):
           )
         
         while True:
-            try:
-                choice = input("")
-                if choice.upper() == "Y":
-                    break
-                selected_checkpoints.append(int(choice))
+            choice = input("")
+            if choice.upper() == "Y":
+                break
+            try :
+                choice_number = int(choice)
+                if choice_number < len(available_nodes) and choice_number > 0:
+                    selected_checkpoints.append(choice_number)
+                else:
+                    print(f"Please enter a valid number (between 1 and {len(available_nodes)}).")
             except ValueError:
-                print("Please enter a valid number.")
+                print("Please enter a number or 'y'/'Y'.")
         
         constructed_data.append(
             {
