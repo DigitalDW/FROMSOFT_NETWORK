@@ -1,0 +1,234 @@
+[
+  {
+    "origin": 1,
+    "dest": [2]
+  },
+  {
+    "origin": 2,
+    "dest": [3, 7, 18, 31, 39]
+  },
+  {
+    "origin": 3,
+    "dest": [4]
+  },
+  {
+    "origin": 4,
+    "dest": [5, 6, 15]
+  },
+  {
+    "origin": 5,
+    "dest": []
+  },
+  {
+    "origin": 6,
+    "dest": []
+  },
+  {
+    "origin": 7,
+    "dest": [8, 9]
+  },
+  {
+    "origin": 8,
+    "dest": [10]
+  },
+  {
+    "origin": 9,
+    "dest": []
+  },
+  {
+    "origin": 10,
+    "dest": [11]
+  },
+  {
+    "origin": 11,
+    "dest": [12, 13]
+  },
+  {
+    "origin": 12,
+    "dest": [13]
+  },
+  {
+    "origin": 13,
+    "dest": [14, 17]
+  },
+  {
+    "origin": 14,
+    "dest": [16]
+  },
+  {
+    "origin": 15,
+    "dest": [12, 13]
+  },
+  {
+    "origin": 16,
+    "dest": []
+  },
+  {
+    "origin": 17,
+    "dest": []
+  },
+  {
+    "origin": 18,
+    "dest": [19]
+  },
+  {
+    "origin": 19,
+    "dest": [20, 21]
+  },
+  {
+    "origin": 20,
+    "dest": [22]
+  },
+  {
+    "origin": 21,
+    "dest": []
+  },
+  {
+    "origin": 22,
+    "dest": [23]
+  },
+  {
+    "origin": 23,
+    "dest": [24]
+  },
+  {
+    "origin": 24,
+    "dest": [25]
+  },
+  {
+    "origin": 25,
+    "dest": [26]
+  },
+  {
+    "origin": 26,
+    "dest": [27]
+  },
+  {
+    "origin": 27,
+    "dest": [28, 30]
+  },
+  {
+    "origin": 28,
+    "dest": [30, 29]
+  },
+  {
+    "origin": 29,
+    "dest": []
+  },
+  {
+    "origin": 30,
+    "dest": []
+  },
+  {
+    "origin": 31,
+    "dest": [32]
+  },
+  {
+    "origin": 32,
+    "dest": [33, 45, 55]
+  },
+  {
+    "origin": 33,
+    "dest": [34]
+  },
+  {
+    "origin": 34,
+    "dest": [35]
+  },
+  {
+    "origin": 35,
+    "dest": [36]
+  },
+  {
+    "origin": 36,
+    "dest": [37]
+  },
+  {
+    "origin": 37,
+    "dest": [38]
+  },
+  {
+    "origin": 38,
+    "dest": []
+  },
+  {
+    "origin": 39,
+    "dest": [40]
+  },
+  {
+    "origin": 40,
+    "dest": [41]
+  },
+  {
+    "origin": 41,
+    "dest": [42]
+  },
+  {
+    "origin": 42,
+    "dest": [43]
+  },
+  {
+    "origin": 43,
+    "dest": [44]
+  },
+  {
+    "origin": 44,
+    "dest": []
+  },
+  {
+    "origin": 45,
+    "dest": [47, 46]
+  },
+  {
+    "origin": 46,
+    "dest": [48]
+  },
+  {
+    "origin": 47,
+    "dest": []
+  },
+  {
+    "origin": 48,
+    "dest": [49]
+  },
+  {
+    "origin": 49,
+    "dest": [50]
+  },
+  {
+    "origin": 50,
+    "dest": [51]
+  },
+  {
+    "origin": 51,
+    "dest": [52]
+  },
+  {
+    "origin": 52,
+    "dest": [53]
+  },
+  {
+    "origin": 53,
+    "dest": [54]
+  },
+  {
+    "origin": 54,
+    "dest": []
+  },
+  {
+    "origin": 55,
+    "dest": [56]
+  },
+  {
+    "origin": 56,
+    "dest": [57]
+  },
+  {
+    "origin": 57,
+    "dest": [58]
+  },
+  {
+    "origin": 58,
+    "dest": []
+  }
+]
