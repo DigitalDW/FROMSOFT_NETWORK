@@ -198,3 +198,6 @@ function startForceLayout(nodes, links) {
     event.subject.fy = null;
   }
 }
+
+d3.select("#select_game").node().value = "DS1";
+loadData("DS1", "darksouls1");
