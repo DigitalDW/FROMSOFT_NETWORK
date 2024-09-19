@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FromSoft dataviz</title>
+  </head>
+  <body>
+    <h2 style="width: 100%; text-align: center">
+      FromSoft Network visualisation
+    </h2>
+    <div style="display: inline-block; width: 100%; text-align: center">
+      <label for="select_game">Select a game :</label>
+      <select name="select_game" id="select_game">
+        <option value="DS1">Dark Souls</option>
+        <option value="DS2">Dark Souls II</option>
+        <option value="BB">BloodBorne</option>
+        <option value="DS3">Dark Souls III</option>
+        <option value="ER">Elden Ring</option>
+      </select>
+    </div>
+    <br />
+    <br />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script type="module" src="network.js"></script>
+  </body>
+</html>
