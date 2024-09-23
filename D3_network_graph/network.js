@@ -151,7 +151,7 @@ function startForceLayout(nodes, links) {
     .selectAll()
     .data(links)
     .join("line")
-    .attr("stroke-width", (d) => Math.sqrt(d.value));
+    .attr("stroke-width", (d) => 3 + Math.sqrt(d.value));
 
   const node = g
     .append("g")
@@ -161,7 +161,7 @@ function startForceLayout(nodes, links) {
     .selectAll()
     .data(nodes)
     .join("circle")
-    .attr("r", 5)
+    .attr("r", 10)
     .on("mouseover", (e, d) => {
       console.log(d.name);
     })
