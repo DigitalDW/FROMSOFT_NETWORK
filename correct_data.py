@@ -14,10 +14,7 @@ def increment_json_numbers(input_file, output_file):
     with open(output_file, 'w') as f:
         json.dump(data, f, indent=4)
 
-# Example usage:
-# input_file = './bloodborne/BB_edges_BAD.json'  # Replace with your input file path
-# output_file = './bloodborne/BB_edges.json'  # Replace with your desired output file path
-input_file = './darksouls2/DS2_edges_BAD.json'  # Replace with your input file path
-output_file = './darksouls2/DS2_edges.json'  # Replace with your desired output file path
+input_file = './darksouls2/DS2_edges_BAD.json'
+output_file = './darksouls2/DS2_edges.json'
 
 increment_json_numbers(input_file, output_file)
