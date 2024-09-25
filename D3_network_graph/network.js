@@ -147,7 +147,7 @@ function startForceLayout(nodes, links) {
     .enter()
     .append("line")
     .attr("stroke", "#999")
-    .attr("stroke-opacity", 0.3)
+    .attr("stroke-opacity", 0.5)
     .attr("stroke-width", 2)
     .attr("class", "links")
     .attr("marker-end", "url(#arrowhead)"); //The marker-end attribute defines the arrowhead or polymarker that will be drawn at the final vertex of the given shape.
