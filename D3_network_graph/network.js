@@ -3,7 +3,12 @@ const height = window.innerHeight - 120;
 let view_dir = true;
 
 d3.select("#select_game").on("change", selectGame);
-d3.select("#change_network_function").on("click", () => {
+d3.select("#change_network_function").on("click", (event) => {
+  if (view_dir) {
+    event.target.innerHTML = "Switch to directed graph";
+  } else {
+    event.target.innerHTML = "Switch to simplified graph";
+  }
   view_dir = !view_dir;
   selectGame("reload");
 });
@@ -25,12 +30,13 @@ g.append("defs")
   .attr("refX", 7) // x coordinate for the reference point of the marker. If circle is bigger, this need to be bigger.
   .attr("refY", 0)
   .attr("orient", "auto")
-  .attr("markerWidth", 13)
-  .attr("markerHeight", 13)
+  .attr("markerWidth", 8)
+  .attr("markerHeight", 8)
   .attr("xoverflow", "visible")
   .append("svg:path")
   .attr("d", "M 0,-2 L 4 ,0 L 0,2")
   .attr("fill", "#999")
+  .attr("opacity", 0.75)
   .style("stroke", "none");
 
 svg.call(
@@ -165,7 +171,7 @@ function startForceLayoutDir(nodes, links) {
     .attr("stroke", "#999")
     .attr("fill", "none")
     .attr("stroke-opacity", 0.5)
-    .attr("stroke-width", 2)
+    .attr("stroke-width", 4)
     .attr("class", "links")
     .attr("marker-end", "url(#arrowhead)")
     .on("click", (event, d) => {
@@ -386,4 +392,4 @@ function startForceLayout(nodes, links) {
 }
 
 d3.select("#select_game").node().value = "DS1";
-loadData("DS1", "darksouls1");
+selectGame("reload");

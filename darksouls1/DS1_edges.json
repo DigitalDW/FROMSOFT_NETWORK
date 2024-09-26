@@ -1,7 +1,8 @@
 [
   {
     "origin": 1,
-    "dest": [2]
+    "dest": [2],
+    "type": "start"
   },
   {
     "origin": 2,
@@ -153,6 +154,7 @@
   },
   {
     "origin": 39,
-    "dest": []
+    "dest": [],
+    "type": "end"
   }
 ]
