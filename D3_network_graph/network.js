@@ -218,7 +218,7 @@ function startForceLayoutDir(nodes, links) {
       d3
         .forceLink() // This force provides links between nodes
         .id((d) => d.id) // This sets the node id accessor to the specified function. If not specified, will default to the index of a node.
-      //.distance(30)
+        .distance(30)
     )
     .force("charge", d3.forceManyBody().strength(-100)) // This adds repulsion (if it's negative) between nodes.
     .force("center", d3.forceCenter(width / 2, height / 2)) // This force attracts nodes to the center of the svg area
@@ -339,7 +339,7 @@ function startForceLayout(nodes, links) {
     .append("g")
     .attr("class", "can_remove")
     .attr("stroke", "#999")
-    .attr("stroke-opacity", 0.6)
+    .attr("stroke-opacity", 0.5)
     .selectAll()
     .data(links)
     .join("line")
