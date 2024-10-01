@@ -1,5 +1,10 @@
 [
-  { "zone": "Things Betwixt", "name": "Fire Keepers' Dwelling", "id": 1 },
+  {
+    "zone": "Things Betwixt",
+    "name": "Fire Keepers' Dwelling",
+    "id": 1,
+    "type": "start"
+  },
   { "zone": "Majula", "name": "The Far Fire", "id": 2 },
   {
     "zone": "Forest of Fallen Giants",
@@ -59,7 +64,12 @@
   { "zone": "The Gutter", "name": "Central Gutter", "id": 42 },
   { "zone": "Black Gulch", "name": "Black Gulch Mouth", "id": 43 },
   { "zone": "Black Gulch", "name": "Hidden Chamber", "id": 44 },
-  { "zone": "Drangleic Castle", "name": "King's Gate", "id": 45 },
+  {
+    "zone": "Drangleic Castle",
+    "name": "King's Gate",
+    "id": 45,
+    "type": "end"
+  },
   { "zone": "Drangleic Castle", "name": "Forgotten Chamber", "id": 46 },
   { "zone": "Drangleic Castle", "name": "Under Castle Drangleic", "id": 47 },
   { "zone": "Drangleic Castle", "name": "Central Castle Drangleic", "id": 48 },

@@ -135,7 +135,8 @@
     "region": "Limgrave",
     "zone": "Stranded Graveyard",
     "name": "Cave of Knowledge",
-    "id": 23
+    "id": 23,
+    "type": "start"
   },
   {
     "region": "Limgrave",
@@ -1161,7 +1162,8 @@
     "region": "Leyndell, Royal Capital",
     "zone": "Stone Platform",
     "name": "Fractured Marika",
-    "id": 194
+    "id": 194,
+    "type": "end"
   },
   {
     "region": "Caelid",

@@ -5,8 +5,7 @@
   },
   {
     "origin": 2,
-    "dest": [3],
-    "type": "start"
+    "dest": [3]
   },
   {
     "origin": 3,
@@ -230,7 +229,6 @@
   },
   {
     "origin": 58,
-    "dest": [57],
-    "type": "end"
+    "dest": [57]
   }
 ]

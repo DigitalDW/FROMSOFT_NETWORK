@@ -133,12 +133,10 @@
   },
   {
     "origin": 34,
-    "dest": [33],
-    "type": "end"
+    "dest": [33]
   },
   {
     "origin": 35,
-    "dest": [1],
-    "type": "start"
+    "dest": [1]
   }
 ]

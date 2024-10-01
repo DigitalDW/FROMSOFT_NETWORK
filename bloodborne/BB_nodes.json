@@ -44,6 +44,16 @@
   { "zone": "Nightmare", "name": "Nightmare of Mensis", "id": 31 },
   { "zone": "Nightmare", "name": "Mergo's Loft Base", "id": 32 },
   { "zone": "Nightmare", "name": "Mergo's Loft Middle", "id": 33 },
-  { "zone": "Nightmare", "name": "Wet Nurse's Lunarium", "id": 34 },
-  { "zone": "Hunter's Dream", "name": "Hunter's Dream", "id": 35 }
+  {
+    "zone": "Nightmare",
+    "name": "Wet Nurse's Lunarium",
+    "id": 34,
+    "type": "end"
+  },
+  {
+    "zone": "Hunter's Dream",
+    "name": "Hunter's Dream",
+    "id": 35,
+    "type": "start"
+  }
 ]

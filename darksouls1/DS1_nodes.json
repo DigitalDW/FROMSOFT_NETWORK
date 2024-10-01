@@ -1,5 +1,10 @@
 [
-  { "zone": "Undead Asylum", "name": "Undead Asylum 1", "id": 1 },
+  {
+    "zone": "Undead Asylum",
+    "name": "Undead Asylum 1",
+    "id": 1,
+    "type": "start"
+  },
   { "zone": "Undead Asylum", "name": "Undead Asylum 2", "id": 2 },
   { "zone": "Firelink Shrine", "name": "Firelink Shrine", "id": 3 },
   { "zone": "Firelink Altar", "name": "Lordvessel", "id": 4 },
@@ -92,6 +97,7 @@
   {
     "zone": "Kiln of the First Flame",
     "name": "Kiln of the First Flame",
-    "id": 39
+    "id": 39,
+    "type": "end"
   }
 ]

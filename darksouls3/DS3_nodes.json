@@ -1,6 +1,11 @@
 [
   { "zone": "Cemetery of Ash", "name": "Firelink Shrine", "id": 1 },
-  { "zone": "Cemetery of Ash", "name": "Cemetery of Ash", "id": 2 },
+  {
+    "zone": "Cemetery of Ash",
+    "name": "Cemetery of Ash",
+    "id": 2,
+    "type": "start"
+  },
   { "zone": "Cemetery of Ash", "name": "Iudex Gundyr", "id": 3 },
   { "zone": "Untended Graves", "name": "Untended Graves", "id": 4 },
   { "zone": "Untended Graves", "name": "Champion Gundyr", "id": 5 },
@@ -112,5 +117,10 @@
     "name": "Kiln of the First Flame",
     "id": 57
   },
-  { "zone": "Kiln of the First Flame", "name": "Soul of Cinder", "id": 58 }
+  {
+    "zone": "Kiln of the First Flame",
+    "name": "Soul of Cinder",
+    "id": 58,
+    "type": "end"
+  }
 ]
