@@ -46,7 +46,7 @@ svg.call(
       [0, 0],
       [width, height],
     ])
-    .scaleExtent([1, 8])
+    .scaleExtent([0.1, 8])
     .on("zoom", zoomed)
 );
 
