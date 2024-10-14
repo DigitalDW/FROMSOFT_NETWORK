@@ -345,19 +345,37 @@ function startForceLayout(nodes, links) {
     .join("line")
     .attr("stroke-width", (d) => Math.sqrt(d.value) + 3);
 
+  // Initialize the nodes
   const node = g
-    .append("g")
-    .attr("class", "can_remove")
-    .attr("stroke", "#fff")
-    .attr("stroke-width", 1.5)
-    .selectAll()
+    .selectAll(".nodes")
     .data(nodes)
-    .join("circle")
-    .attr("r", 10)
-    .on("mouseover", (e, d) => {
-      console.log(d.name);
-    })
+    .enter()
+    .append("g")
+    .attr("class", "nodes")
+    .call(
+      d3
+        .drag() //sets the event listener for the specified typenames and returns the drag behavior.
+        .on("start", dragstarted) //start - after a new pointer becomes active (on mousedown or touchstart).
+        .on("drag", dragged) //drag - after an active pointer moves (on mousemove or touchmove).
+        .on("end", dragended) //end - after an active pointer becomes inactive (on mouseup, touchend or touchcancel).
+    );
+
+  node
+    .append("circle")
+    .attr("r", 12) //+ d.runtime/20 )
     .attr("fill", (d) => color(d.zone));
+
+  node.each(function (p, j) {
+    const words = p.name.split(" ");
+    words.forEach((word, idx) => {
+      d3.select(this)
+        .append("text")
+        .attr("dy", idx + "em")
+        .attr("dx", -6)
+        .style("font-size", "8px")
+        .text(word);
+    });
+  });
 
   function ticked() {
     link
@@ -366,7 +384,7 @@ function startForceLayout(nodes, links) {
       .attr("x2", (d) => d.target.x)
       .attr("y2", (d) => d.target.y);
 
-    node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+    node.attr("transform", (d) => `translate(${d.x},${d.y})`);
   }
 
   node.call(
