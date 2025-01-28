@@ -39,6 +39,22 @@ g.append("defs")
   .attr("opacity", 0.75)
   .style("stroke", "none");
 
+const saveToSVG = document.getElementById("saveToSVG");
+saveToSVG.addEventListener("click", (event) => exportToSVG(event, svg));
+
+const borderOnOff = document.getElementById("borderOnOff");
+borderOnOff.addEventListener("click", (event) => {
+  if (event.target.value == "on") {
+    event.target.value = "off";
+    svg.attr("style", "border: 0px solid black;");
+    event.target.innerHTML = "Turn border on";
+  } else {
+    event.target.value = "on";
+    svg.attr("style", "border: 1px solid black;");
+    event.target.innerHTML = "Turn border off";
+  }
+});
+
 svg.call(
   d3
     .zoom()
@@ -407,6 +423,23 @@ function startForceLayout(nodes, links) {
     event.subject.fx = null;
     event.subject.fy = null;
   }
+}
+
+function exportToSVG(event, SVG) {
+  event.preventDefault();
+
+  SVG.attr("width", width);
+
+  const svgNode = SVG.node();
+  var data = new XMLSerializer().serializeToString(svgNode);
+
+  var svgBlob = new Blob([data], { type: "image/svg+xml;" });
+  var svgUrl = URL.createObjectURL(svgBlob);
+
+  var downloadLink = document.createElement("a");
+  downloadLink.href = svgUrl;
+  downloadLink.download = document.getElementById("select_game").value + ".svg";
+  downloadLink.click();
 }
 
 d3.select("#select_game").node().value = "DS1";
