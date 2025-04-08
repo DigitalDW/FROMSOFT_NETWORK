@@ -1,0 +1,315 @@
+id,zone,label
+1,Roundtable Hold,Table of Lost Grace
+2,Main Limgrave,The First Step
+3,Main Limgrave,Church of Elleh
+4,Main Limgrave,Gatefront
+5,Main Limgrave,Waypoint Ruins Cellar
+6,Main Limgrave,Artist's Shack
+7,Main Limgrave,Third Church of Marika
+8,Main Limgrave,Fort Haight West
+9,Main Limgrave,Agheel Lake South
+10,Main Limgrave,Agheel Lake North
+11,Main Limgrave,Church of Dragon Communion
+12,Main Limgrave,Seaside Ruins
+13,Main Limgrave,Mistwood Outskirts
+14,Main Limgrave,Murkwater Coast
+15,Main Limgrave,Summonwater Village Outskirts
+16,Main Limgrave,Stormfoot Catacombs
+17,Main Limgrave,Murkwater Catacombs
+18,Main Limgrave,Groveside Cave
+19,Main Limgrave,Coastal Cave
+20,Main Limgrave,Murkwater Cave
+21,Main Limgrave,Highroad Cave
+22,Main Limgrave,Limgrave Tunnels
+23,Stranded Graveyard,Cave of Knowledge
+24,Stranded Graveyard,Stranded Graveyard
+25,Stormhill,Stormhill Shack
+26,Stormhill,Castleward Tunnel
+27,Stormhill,"Margit, the Fell Omen"
+28,Stormhill,Warmaster's Shack
+29,Stormhill,Saintsbridge
+30,Stormhill,Deathtouched Catacombs
+31,Stormhill,Limgrave Tower Bridge
+32,Stormhill,Divine Tower of Limgrave
+33,Weeping Peninsula,Church of Pilgrimage
+34,Weeping Peninsula,Castle Morne Rampart
+35,Weeping Peninsula,Tombsward
+36,Weeping Peninsula,South of the Lookout Tower
+37,Weeping Peninsula,Ailing Village Outskirts
+38,Weeping Peninsula,Beside The Crater-Pocked Glade
+39,Weeping Peninsula,Isolated Merchant's Shack
+40,Weeping Peninsula,Fourth Church of Marika
+41,Weeping Peninsula,Bridge of Sacrifice
+42,Weeping Peninsula,Castle Morne Lift
+43,Weeping Peninsula,Behind The Castle
+44,Weeping Peninsula,Beside the Rampart Gaol
+45,Weeping Peninsula,Morne Moangrave
+46,Weeping Peninsula,Impaler's Catacombs
+47,Weeping Peninsula,Tombsward Catacombs
+48,Weeping Peninsula,Earthbore Cave
+49,Weeping Peninsula,Tombsward Cave
+50,Weeping Peninsula,Morne Tunnel
+51,Stormveil Castle,Stormveil Main Gate
+52,Stormveil Castle,Gateside Chamber
+53,Stormveil Castle,Stormveil Cliffside
+54,Stormveil Castle,Rampart Tower
+55,Stormveil Castle,Liftside Chamber
+56,Stormveil Castle,Secluded Cell
+57,Stormveil Castle,Godrick the Grafted
+58,Main Liurnia of the Lakes,Lake-Facing Cliffs
+59,Main Liurnia of the Lakes,Liurnia Lake Shore
+60,Main Liurnia of the Lakes,Laskyar Ruins
+61,Main Liurnia of the Lakes,Scenic Isle
+62,Main Liurnia of the Lakes,Academy Gate Town
+63,Main Liurnia of the Lakes,South Raya Lucaria Gate
+64,Main Liurnia of the Lakes,Main Academy Gate
+65,Main Liurnia of the Lakes,Liurnia Highway South
+66,Main Liurnia of the Lakes,Liurnia Highway North
+67,Main Liurnia of the Lakes,Gate Town Bridge
+68,Main Liurnia of the Lakes,Artist's Shack
+69,Main Liurnia of the Lakes,Eastern Liurnia Lake Shore
+70,Main Liurnia of the Lakes,Jarburg
+71,Main Liurnia of the Lakes,Ranni's Chamber
+72,Main Liurnia of the Lakes,Eastern Tableland
+73,Main Liurnia of the Lakes,Church of Vows
+74,Main Liurnia of the Lakes,Ruined Labyrinth
+75,Main Liurnia of the Lakes,Mausoleum Compound
+76,Main Liurnia of the Lakes,Slumbering Wolf's Shack
+77,Main Liurnia of the Lakes,Boilprawn Shack
+78,Main Liurnia of the Lakes,Fallen Ruins of the Lake
+79,Main Liurnia of the Lakes,Folly on the Lake
+80,Main Liurnia of the Lakes,Village of the Albinaurics
+81,Main Liurnia of the Lakes,Converted Tower
+82,Main Liurnia of the Lakes,Revenger's Shack
+83,Main Liurnia of the Lakes,Temple Quarter
+84,Main Liurnia of the Lakes,Crystalline Woods
+85,Main Liurnia of the Lakes,Foot of the Four Belfries
+86,Main Liurnia of the Lakes,The Four Belfries
+87,Main Liurnia of the Lakes,Sorcerer's Isle
+88,Main Liurnia of the Lakes,East Gate Bridge Trestle
+89,Main Liurnia of the Lakes,Gate Town North
+90,Main Liurnia of the Lakes,Northern Liurnia Lake Shore
+91,Main Liurnia of the Lakes,Road to the Manor
+92,Main Liurnia of the Lakes,Main Caria Manor Gate
+93,Main Liurnia of the Lakes,Manor Upper Level
+94,Main Liurnia of the Lakes,Manor Lower Level
+95,Main Liurnia of the Lakes,Royal Moongazing Grounds
+96,Main Liurnia of the Lakes,Ranni's Rise
+97,Main Liurnia of the Lakes,Behind Caria Manor
+98,Main Liurnia of the Lakes,The Ravine
+99,Main Liurnia of the Lakes,Ravine-Veiled Village
+100,Main Liurnia of the Lakes,Cliffbottom Catacombs
+101,Main Liurnia of the Lakes,Road's End Catacombs
+102,Main Liurnia of the Lakes,Black Knife Catacombs
+103,Main Liurnia of the Lakes,Stillwater Cave
+104,Main Liurnia of the Lakes,Lakeside Crystal Cave
+105,Main Liurnia of the Lakes,Academy Crystal Cave
+106,Main Liurnia of the Lakes,Raya Lucaria Crystal Tunnel
+107,Main Liurnia of the Lakes,Study Hall Entrance
+108,Main Liurnia of the Lakes,Liurnia Tower Bridge
+109,Main Liurnia of the Lakes,Divine Tower of Liurnia
+110,Bellum Highway,East Raya Lucaria Gate
+111,Bellum Highway,Bellum Church
+112,Bellum Highway,Grand Lift of Dectus
+113,Bellum Highway,Frenzied Flame Village Outskirts
+114,Bellum Highway,Church of Inhibition
+115,Ruin-Strewn Precipice,Ruin-Strewn Precipice
+116,Ruin-Strewn Precipice,Ruin-Strewn Precipice Overlook
+117,Ruin-Strewn Precipice,Magma Wyrm Makar
+118,Moonlight Altar,Moonlight Altar
+119,Moonlight Altar,Cathedral of Manus Celes
+120,Moonlight Altar,Altar South
+121,Academy of Raya Lucaria,Church of the Cuckoo
+122,Academy of Raya Lucaria,Schoolhouse Classroom
+123,Academy of Raya Lucaria,Debate Parlor
+124,Academy of Raya Lucaria,Raya Lucaria Grand Library
+125,Main Altus Plateau,Abandoned Coffin
+126,Main Altus Plateau,Erdtree-Gazing Hill
+127,Main Altus Plateau,Altus Plateau
+128,Main Altus Plateau,Altus Highway Junction
+129,Main Altus Plateau,Forest-Spanning Greatbridge
+130,Main Altus Plateau,Bower of Bounty
+131,Main Altus Plateau,Windmill Village
+132,Main Altus Plateau,Windmill Heights
+133,Main Altus Plateau,Road of Iniquity Side Path
+134,Main Altus Plateau,Rampartside Path
+135,Main Altus Plateau,Shaded Castle Ramparts
+136,Main Altus Plateau,Shaded Castle Inner Gate
+137,Main Altus Plateau,Castellan's Hall
+138,Main Altus Plateau,Unsightly Catacombs
+139,Main Altus Plateau,Sainted Hero's Grave
+140,Main Altus Plateau,Sage's Cave
+141,Main Altus Plateau,Perfumer's Grotto
+142,Main Altus Plateau,Old Altus Tunnel
+143,Main Altus Plateau,Altus Tunnel
+144,Mt. Gelmir,Bridge of Iniquity
+145,Mt. Gelmir,First Mt. Gelmir Campsite
+146,Mt. Gelmir,Ninth Mt. Gelmir Campsite
+147,Mt. Gelmir,Road of Iniquity
+148,Mt. Gelmir,Seethewater River
+149,Mt. Gelmir,Seethewater Terminus
+150,Mt. Gelmir,Craftsman's Shack
+151,Mt. Gelmir,Primeval Sorcerer Azur
+152,Mt. Gelmir,Wyndham Catacombs
+153,Mt. Gelmir,Gelmir Hero's Grave
+154,Mt. Gelmir,Seethewater Cave
+155,Mt. Gelmir,Volcano Cave
+156,Capital Outskirts,Outer Wall Phantom Tree
+157,Capital Outskirts,Minor Erdtree Church
+158,Capital Outskirts,Outer Wall Battleground
+159,Capital Outskirts,Hermit Merchant's Shack
+160,Capital Outskirts,Capital Rampart
+161,Capital Outskirts,Auriza Side Tomb
+162,Capital Outskirts,Auriza Hero's Grave
+163,Capital Outskirts,Sealed Tunnel
+164,Capital Outskirts,Divine Tower of West Altus: Gate
+165,Capital Outskirts,Divine Tower of West Altus
+166,Volcano Manor,Volcano Manor
+167,Volcano Manor,Prison Town Church
+168,Volcano Manor,Temple of Eiglay
+169,Volcano Manor,Guest Hall
+170,Volcano Manor,Audience Pathway
+171,Volcano Manor,Abductor Virgin
+172,Volcano Manor,Subterranean Inquisition Chamber
+173,Volcano Manor,"Rykard, Lord of Blasphemy"
+174,"Main Leyndell, Royal Capital",Erdtree Sanctuary
+175,"Main Leyndell, Royal Capital",East Capital Rampart
+176,"Main Leyndell, Royal Capital",Lower Capital Church
+177,"Main Leyndell, Royal Capital",Avenue Balcony
+178,"Main Leyndell, Royal Capital",West Capital Rampart
+179,"Main Leyndell, Royal Capital",Queen's Bedchamber
+180,"Main Leyndell, Royal Capital","Fortified Manor, First Floor"
+181,"Main Leyndell, Royal Capital",Divine Bridge
+182,"Main Leyndell, Royal Capital",Elden Throne
+183,Subterranean Shunning-Grounds,Underground Roadside
+184,Subterranean Shunning-Grounds,Forsaken Depths
+185,Subterranean Shunning-Grounds,Leyndell Catacombs
+186,Subterranean Shunning-Grounds,Frenzied Flame Proscription
+187,Subterranean Shunning-Grounds,Cathedral of the Forsaken
+188,"Leyndell, Ashen Capital",East Capital Rampart
+189,"Leyndell, Ashen Capital","Leyndell, Capital of Ash"
+190,"Leyndell, Ashen Capital",Erdtree Sanctuary
+191,"Leyndell, Ashen Capital",Queen's Bedchamber
+192,"Leyndell, Ashen Capital",Divine Bridge
+193,"Leyndell, Ashen Capital",Elden Throne
+194,Stone Platform,Fractured Marika
+195,Main Caelid,Smoldering Church
+196,Main Caelid,Rotview Balcony
+197,Main Caelid,Caelem Ruins
+198,Main Caelid,Fort Gael North
+199,Main Caelid,Smoldering Wall
+200,Main Caelid,Caelid Highway South
+201,Main Caelid,Cathedral of Dragon Communion
+202,Main Caelid,Southern Aeonia Swamp Bank
+203,Main Caelid,Sellia Backstreets
+204,Main Caelid,Sellia Under-Stair
+205,Main Caelid,Chair-Crypt of Sellia
+206,Main Caelid,Church of the Plague
+207,Main Caelid,Deep Siofra Well
+208,Main Caelid,Impassable Greatbridge
+209,Main Caelid,Chamber Outside the Plaza
+210,Main Caelid,Redmane Castle Plaza
+211,Main Caelid,Starscourge Radahn
+212,Main Caelid,Minor Erdtree Catacombs
+213,Main Caelid,Caelid Catacombs
+214,Main Caelid,War-Dead Catacombs
+215,Main Caelid,Abandoned Cave
+216,Main Caelid,Gaol Cave
+217,Main Caelid,Gael Tunnel
+218,Main Caelid,Rear Gael Tunnel Entrance
+219,Main Caelid,Sellia Crystal Tunnel
+220,Swamp of Aeonia,Aeonia Swamp Shore
+221,Swamp of Aeonia,Astray from Caelid Highway North
+222,Swamp of Aeonia,Heart of Aeonia
+223,Swamp of Aeonia,Inner Aeonia
+224,Greyoll's Dragonbarrow,Dragonbarrow West
+225,Greyoll's Dragonbarrow,Isolated Merchant's Shack
+226,Greyoll's Dragonbarrow,Fort Faroth
+227,Greyoll's Dragonbarrow,Dragonbarrow Fork
+228,Greyoll's Dragonbarrow,Lenne's Rise
+229,Greyoll's Dragonbarrow,Farum Greatbridge
+230,Greyoll's Dragonbarrow,Bestial Sanctum
+231,Greyoll's Dragonbarrow,Sellia Hideaway
+232,Greyoll's Dragonbarrow,Dragonbarrow Cave
+233,Greyoll's Dragonbarrow,Divine Tower of Caelid: Center
+234,Greyoll's Dragonbarrow,Divine Tower of Caelid: Basement
+235,Greyoll's Dragonbarrow,Isolated Divine Tower
+236,Forbidden Lands,Forbidden Lands
+237,Forbidden Lands,Grand Lift of Rold
+238,Forbidden Lands,Hidden Path to the Haligtree
+239,Forbidden Lands,Divine Tower of East Altus: Gate
+240,Forbidden Lands,Divine Tower of East Altus
+241,Main Mountaintops of the Giants,Zamor Ruins
+242,Main Mountaintops of the Giants,Ancient Snow Valley Ruins
+243,Main Mountaintops of the Giants,Freezing Lake
+244,Main Mountaintops of the Giants,First Church of Marika
+245,Main Mountaintops of the Giants,Whiteridge Road
+246,Main Mountaintops of the Giants,Snow Valley Ruins Overlook
+247,Main Mountaintops of the Giants,Castle Sol Main Gate
+248,Main Mountaintops of the Giants,Church of the Eclipse
+249,Main Mountaintops of the Giants,Castle Sol Rooftop
+250,Main Mountaintops of the Giants,Spiritcaller Cave
+251,Flame Peak,Giants' Gravepost
+252,Flame Peak,Church of Repose
+253,Flame Peak,Foot of the Forge
+254,Flame Peak,Fire Giant
+255,Flame Peak,Forge of the Giants
+256,Flame Peak,Giants' Mountaintop Catacombs
+257,Flame Peak,Giant-Conquering Hero's Grave
+258,Consecrated Snowfield,Consecrated Snowfield
+259,Consecrated Snowfield,Inner Consecrated Snowfield
+260,Consecrated Snowfield,"Ordina, Liturgical Town"
+261,Consecrated Snowfield,Apostate Derelict
+262,Consecrated Snowfield,Consecrated Snowfield Catacombs
+263,Consecrated Snowfield,Cave of the Forlorn
+264,Consecrated Snowfield,Yelough Anix Tunnel
+265,Main Miquella's Haligtree,Haligtree Canopy
+266,Main Miquella's Haligtree,Haligtree Town
+267,Main Miquella's Haligtree,Haligtree Town Plaza
+268,Main Miquella's Haligtree,Haligtree Promenade
+269,"Elphael, Brace of the Haligtree",Prayer Room
+270,"Elphael, Brace of the Haligtree",Elphael Inner Wall
+271,"Elphael, Brace of the Haligtree",Drainage Channel
+272,"Elphael, Brace of the Haligtree",Haligtree Roots
+273,"Elphael, Brace of the Haligtree","Malenia, Goddess of Rot"
+274,Main Ainsel River,Ainsel River Well Depths
+275,Main Ainsel River,Ainsel River Sluice Gate
+276,Main Ainsel River,Ainsel River Downstream
+277,Main Ainsel River,Dragonkin Soldier of Nokstella
+278,Main Ainsel River,"Astel, Naturalborn of the Void"
+279,Ainsel River Main,Ainsel River Main
+280,Ainsel River Main,"Nokstella, Eternal City"
+281,Ainsel River Main,Nokstella Waterfall Basin
+282,Lake of Rot,Lake of Rot Shoreside
+283,Lake of Rot,Grand Cloister
+284,"Nokron, Eternal City","Nokron, Eternal City"
+285,"Nokron, Eternal City",Mimic Tear
+286,"Nokron, Eternal City",Ancestral Woods
+287,"Nokron, Eternal City",Night's Sacred Ground
+288,"Nokron, Eternal City",Aqueduct-Facing Cliffs
+289,"Nokron, Eternal City",Great Waterfall Basin
+290,Main Siofra River,Siofra River Well Depths
+291,Main Siofra River,Siofra River Bank
+292,Main Siofra River,Worshippers' Woods
+293,Main Siofra River,Below the Well
+294,Mohgwyn Palace,Palace Approach Ledge-Road
+295,Mohgwyn Palace,Dynasty Mausoleum Entrance
+296,Mohgwyn Palace,Dynasty Mausoleum Midpoint
+297,Mohgwyn Palace,Cocoon of the Empyrean
+298,Deeproot Depths,Root-Facing Cliffs
+299,Deeproot Depths,Great Waterfall Crest
+300,Deeproot Depths,Deeproot Depths
+301,Deeproot Depths,The Nameless Eternal City
+302,Deeproot Depths,Across the Roots
+303,Deeproot Depths,Prince of Death's Throne
+304,Crumbling Farum Azula,Crumbling Beast Grave
+305,Crumbling Farum Azula,Crumbling Beast Grave Depths
+306,Crumbling Farum Azula,Tempest-Facing Balcony
+307,Crumbling Farum Azula,Dragon Temple
+308,Crumbling Farum Azula,Dragon Temple Transept
+309,Crumbling Farum Azula,Dragon Temple Altar
+310,Crumbling Farum Azula,Dragon Temple Lift
+311,Crumbling Farum Azula,Dragon Temple Rooftop
+312,Crumbling Farum Azula,Beside the Great Bridge
+313,Crumbling Farum Azula,Dragonlord Placidusax
+314,Crumbling Farum Azula,"Maliketh, the Black Blade"
