@@ -1,7 +1,7 @@
 const width = window.innerWidth;
 const height = window.innerHeight - 120;
 let view_dir = true;
-let view_cent = false;
+let nodes_labels = "all";
 let simulation;
 
 d3.select("#select_game").on("change", selectGame);
@@ -59,11 +59,10 @@ borderOnOff.addEventListener("click", (event) => {
 const saveToSVG = document.getElementById("saveToSVG");
 saveToSVG.addEventListener("click", (event) => exportToSVG(event, svg));
 
-const centralNodes = document.getElementById("centralNodes");
-centralNodes.addEventListener("click", (event) => {
-  view_cent = !view_cent;
-  event.target.innerHTML = "Display central nodes' labels";
-  if (view_cent) event.target.innerHTML = "Display all labels";
+const nodeLabels = document.getElementById("nodeLabels");
+nodes_labels = nodeLabels.value;
+nodeLabels.addEventListener("change", (event) => {
+  nodes_labels = nodeLabels.value;
   selectGame("reload");
 });
 
@@ -195,9 +194,11 @@ function startForceLayout(nodes, links) {
     .attr("r", 12) //+ d.runtime/20 )
     .attr("fill", (d) => color(d.zone));
 
-  node.each(function (p, j) {
-    displayNames(p, this);
-  });
+  if (nodes_labels != "none") {
+    node.each(function (data, j) {
+      displayNames(data, this);
+    });
+  }
 
   simulation = d3
     .forceSimulation()
@@ -332,11 +333,11 @@ function returnColor(data) {
   ]);
 }
 
-function displayNames(p, n) {
-  const words = p.name.split(" ");
-  if (!view_cent) {
+function displayNames(data, node) {
+  const words = data.name.split(" ");
+  if (nodes_labels === "all") {
     words.forEach((word, idx) => {
-      d3.select(n)
+      d3.select(node)
         .append("text")
         .attr("dy", idx + "em")
         .attr("dx", -6)
@@ -344,7 +345,7 @@ function displayNames(p, n) {
         //.style("font-weight", important_name ? "bold" : "normal")
         .text(word);
     });
-  } else {
+  } else if (nodes_labels === "central") {
     let important_name = false;
     if (
       [
@@ -354,13 +355,13 @@ function displayNames(p, n) {
         "Table of Lost Grace",
         "Hunter's Dream",
         "Crucifixion Woods",
-      ].includes(p.name)
+      ].includes(data.name)
     ) {
       important_name = true;
     }
     if (important_name) {
       words.forEach((word, idx) => {
-        d3.select(n)
+        d3.select(node)
           .append("text")
           .attr("dy", idx + "em")
           .attr("dx", -6)
